@@ -132,10 +132,13 @@ def fetch_jira_issues_to_dataframe(jira_conn, jql_query):
         dev_date = None
         validation_date = None
         done_date = None
+        
 
+        assignee_email = "None"
+        
         # get assignee
         if issue.fields.assignee:
-            assignee_email = issue.fields.assignee.emailAddress
+            assignee_email = issue.fields.assignee.emailAddress if issue.fields.assignee.emailAddress is not None else "None"
     
         for history in changelog.histories:
             changed_date = history.created

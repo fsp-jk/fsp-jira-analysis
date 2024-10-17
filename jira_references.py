@@ -2,10 +2,10 @@
 
 # Status Categories
 DONE_STATUSES = ['Done', "Won't Do"]
-IN_VALIDATION_STATUSES = ['QA Ready','In QA','Merged','Product Acceptance','Passed Integration', 'GTM']
+IN_VALIDATION_STATUSES = ['QA Ready', 'Code Review', 'In QA','Merged','Product Acceptance','Passed Integration', 'GTM']
 
-IN_DEV_STATUSES = ['In Progress',  'Code Review', 'Development', 'In Development']
-ENG_BACKLOG_STATUSES = ['Selected for Development', 'Ready for Dev','Ready', 'Ready for Planning']
+IN_DEV_STATUSES = ['In Progress', 'Development', 'In Development']
+ENG_BACKLOG_STATUSES = ['Selected for Development', 'Ready for Dev', 'Ready for Development', 'Ready', 'Ready for Planning']
 PM_BACKLOG_STATUSES = ['Backlog', 'Ready for Refinement']
 
 # Issue Type Categories
