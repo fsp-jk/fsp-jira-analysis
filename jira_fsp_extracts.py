@@ -134,6 +134,7 @@ def fetch_jira_issues_to_dataframe(jira_conn, jql_query):
         done_date = None
 
         # get assignee
+        assignee_email = None
         if issue.fields.assignee:
             assignee_email = issue.fields.assignee.emailAddress
     
