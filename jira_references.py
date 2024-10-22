@@ -1,8 +1,8 @@
 # REFERENCE VALUES - common mappings / bucketings for use in other processes.
 
 # Status Categories
-DONE_STATUSES = ['Done', "Won't Do"]
-IN_VALIDATION_STATUSES = ['QA Ready','In QA','Merged','Product Acceptance','Passed Integration', 'GTM']
+DONE_STATUSES = ['Done', "Won't Do", "Resolved"]
+IN_VALIDATION_STATUSES = ['QA Ready','In QA','Merged','Product Acceptance','Ready for Integration','Passed Integration', 'GTM']
 
 IN_DEV_STATUSES = ['In Progress',  'Code Review', 'Development', 'In Development']
 ENG_BACKLOG_STATUSES = ['Selected for Development', 'Ready for Dev','Ready', 'Ready for Planning']
