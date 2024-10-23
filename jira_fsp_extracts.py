@@ -83,8 +83,10 @@ def fetch_jira_issues_to_dataframe(jira_conn, jql_query):
         status_category = None
         if status in DONE_STATUSES:
             status_category = 'Done'
-        elif status in IN_VALIDATION_STATUSES:
-            status_category = 'Validation'
+        elif status in IN_QA_VALIDATION_STATUSES:
+            status_category = 'QA Validation'
+        elif status in IN_DEV_VALIDATION_STATUSES:
+            status_category = 'Dev Validation'
         elif status in IN_DEV_STATUSES:
             status_category = 'Development'
         elif status in ENG_BACKLOG_STATUSES:
@@ -130,9 +132,10 @@ def fetch_jira_issues_to_dataframe(jira_conn, jql_query):
         pm_backlog_date = None
         eng_backlog_date = None
         dev_date = None
-        validation_date = None
+        dev_validation_date = None
+        qa_validation_date = None
         done_date = None
-
+        assignee_email = None
         # get assignee
         assignee_email = None
         if issue.fields.assignee:
@@ -150,10 +153,14 @@ def fetch_jira_issues_to_dataframe(jira_conn, jql_query):
                         # Take the max done date
                         if not done_date or changed_date > done_date:
                             done_date = changed_date
-                    elif new_value in IN_VALIDATION_STATUSES:
+                    elif new_value in IN_QA_VALIDATION_STATUSES:
                         # Take the min validation date
-                        if not validation_date or changed_date < validation_date:
-                            validation_date = changed_date
+                        if not qa_validation_date or changed_date < qa_validation_date:
+                            qa_validation_date = changed_date
+                    elif new_value in IN_DEV_VALIDATION_STATUSES:
+                        # Take the min validation date
+                        if not dev_validation_date or changed_date < dev_validation_date:
+                            dev_validation_date = changed_date
                     elif new_value in IN_DEV_STATUSES:
                         # take the min dev date
                         if not dev_date or changed_date <= dev_date:
@@ -165,24 +172,31 @@ def fetch_jira_issues_to_dataframe(jira_conn, jql_query):
 
             
         # If the ticket is moved backwards, status dates can get weird.  Clean that up by removing dates from future stages
-        if status in IN_VALIDATION_STATUSES:
+        if status in IN_QA_VALIDATION_STATUSES:
             done_date = None
+        elif status in IN_DEV_VALIDATION_STATUSES:
+            done_date = None
+            qa_validation_date = None
         elif status in IN_DEV_STATUSES:
             done_date = None
-            validation_date = None
+            qa_validation_date = None
+            dev_validation_date = None
         elif status in ENG_BACKLOG_STATUSES:
             done_date = None
-            validation_date = None
+            qa_validation_date = None
+            dev_validation_date = None
             dev_date = None
         elif status in PM_BACKLOG_STATUSES:
             done_date = None
-            validation_date = None
+            qa_validation_date = None
+            dev_validation_date = None
             dev_date = None
             eng_backlog_date = None
 
         # Normalize dates
         done_date = pd.to_datetime(done_date).tz_localize(None) if done_date else None
-        validation_date = pd.to_datetime(validation_date).tz_localize(None) if validation_date else None
+        qa_validation_date = pd.to_datetime(qa_validation_date).tz_localize(None) if qa_validation_date else None
+        dev_validation_date = pd.to_datetime(dev_validation_date).tz_localize(None) if dev_validation_date else None
         dev_date = pd.to_datetime(dev_date).tz_localize(None) if dev_date else None
         eng_backlog_date = pd.to_datetime(eng_backlog_date).tz_localize(None) if eng_backlog_date else None
         pm_backlog_date = created_date # default the PM backlog date to created
@@ -250,7 +264,8 @@ def fetch_jira_issues_to_dataframe(jira_conn, jql_query):
             'PM Backlog Date': pm_backlog_date,
             'Eng Backlog Date': eng_backlog_date,
             'Development Date': dev_date,
-            'Validation Date': validation_date,
+            'Dev Validation Date': dev_validation_date,
+            'QA Validation Date': qa_validation_date,
             'Done Date': done_date,
             'Release Date': release_date,
             'Release Version': release_version,
