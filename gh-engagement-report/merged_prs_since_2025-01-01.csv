@@ -1,0 +1,550 @@
+repository,pr_number,author,title,created_at,merged_at,base_branch,lines_added,lines_deleted,total_lines_changed,files_changed
+FSP-V4,7722,joshvahl-fsp,"FE-662.1/hotfix",2025-05-22T18:35:47Z,2025-05-22T18:42:38Z,FE-662.1-hotfix,3,4,7,2
+FSP-V4,7721,joshvahl-fsp,"Fe 653/merge conflict resolution",2025-05-22T16:04:03Z,2025-05-22T16:19:09Z,FE-653-RC-3,3339,366,3705,55
+FSP-V4,7715,joshvahl-fsp,"unit test fixes",2025-05-21T22:18:38Z,2025-05-22T12:40:00Z,FE-653-RC-3,30,23,53,6
+FSP-V4,7702,tylermeininger-fsp,"FSP-11282 Drag & drop reservation bugfixes",2025-05-20T22:07:11Z,2025-05-21T18:45:44Z,FE-663-RC,52,16,68,4
+FSP-V4,7701,timsquires,"Combine FE-660 and FE-661",2025-05-20T21:12:59Z,2025-05-20T21:22:18Z,FE-661-RC-2,2199,412,2611,56
+FSP-V4,7700,joshvahl-fsp,"FSP-11583 fixes issue where afterClosed was not working",2025-05-20T21:10:55Z,2025-05-20T21:17:18Z,FE-662-RC-1,43,14,57,1
+FSP-V4,7695,joshvahl-fsp,"FE-662 defect fixes",2025-05-19T20:41:42Z,2025-05-19T21:30:31Z,FE-662-RC-1,12,4,16,2
+FSP-V4,7688,timsquires,"Combine FE-657 and FE-659",2025-05-19T15:39:53Z,2025-05-19T15:51:10Z,FE-657-659-RC-1,28,1,29,2
+FSP-V4,7687,timsquires,"FSP-11478 enable checkride toggle",2025-05-19T14:02:44Z,2025-05-20T21:34:29Z,FE-661-RC-2,211,165,376,8
+FSP-V4,7686,tylermeininger-fsp,"FSP-11554 Fix permission checks needed for logging/editing exams",2025-05-16T21:13:40Z,2025-05-19T13:25:31Z,FE-660-RC-4,12,5,17,1
+FSP-V4,7685,timsquires,"FSP-11506 AviatorPro bug fixes",2025-05-16T17:24:45Z,2025-05-19T15:43:38Z,FE-661-RC,246,146,392,8
+FSP-V4,7684,tylermeininger-fsp,"FSP-11548 Student permission fix for view exam",2025-05-16T16:35:04Z,2025-05-16T17:20:02Z,FE-660-RC-4,16,4,20,3
+FSP-V4,7683,adam-blumberg,"Updated Cypress Tests for FSP-10890",2025-05-15T21:50:23Z,2025-05-20T18:14:45Z,FE-660-RC-4,18,26,44,2
+FSP-V4,7682,joshvahl-fsp,"Payment links",2025-05-15T15:49:34Z,2025-05-16T18:50:25Z,FE-662-RC-1,3302,367,3669,55
+FSP-V4,7671,amatasek,"Update verbiage for aviator pro",2025-05-13T15:30:23Z,2025-05-13T16:52:36Z,FE-657-RC-1,16,6,22,1
+FSP-V4,7670,timsquires,"FSP-11489 move chartjs files from index to angularjs libs bundle",2025-05-13T15:29:12Z,2025-05-14T14:51:22Z,FE-660-RC,22,3,25,4
+FSP-V4,7669,joshvahl-fsp,"FSP-10646 updates all applicable quickbooks references",2025-05-13T14:57:06Z,2025-05-21T21:19:06Z,FE-653-RC-3,6093,3901,9994,295
+FSP-V4,7668,joshvahl-fsp,"FSP-10609 adds netsuite integration page and updates qbo integration page",2025-05-13T14:55:37Z,2025-05-21T19:20:41Z,FE-653-RC-3,552,253,805,51
+FSP-V4,7667,joshvahl-fsp,"FSP-10607 adds netsuite integrations option to integrations page",2025-05-13T14:54:23Z,2025-05-21T19:04:20Z,FE-653-RC-3,47,18,65,9
+FSP-V4,7662,bartgriffith,"strip query param after modal opens",2025-05-09T19:09:34Z,2025-05-09T19:30:42Z,FE-659-RC-2,7,0,7,1
+FSP-V4,7661,tylermeininger-fsp,"FSP-10890 View exam modal",2025-05-09T18:31:16Z,2025-05-12T15:15:53Z,FE-660-RC,2136,379,2515,50
+FSP-V4,7660,bartgriffith,"FSP-11483: deep link to invoice (iOS app support)",2025-05-09T18:16:54Z,2025-05-09T18:30:12Z,FE-659-RC-2,21,1,22,2
+FSP-V4,7643,joshvahl-fsp,"FSP-11460 fixes logic that refreshes info for sports courses",2025-05-06T15:08:02Z,2025-05-06T15:13:17Z,FE-655-RC-2,6,2,8,1
+FSP-V4,7631,timsquires,"FSP-11402 link discovery flight",2025-05-05T20:12:15Z,2025-05-07T13:48:51Z,FE-658-RC-3,419,72,491,14
+FSP-V4,7624,joshvahl-fsp,"FSP-11450 fixes issue with null reference",2025-05-05T15:44:15Z,2025-05-05T15:55:58Z,FE-655-RC-2,1,1,2,1
+FSP-V4,7615,tylermeininger-fsp,"FSP-11445 Send false if no value is available for manualTailAssignment",2025-05-02T20:45:53Z,2025-05-02T20:46:50Z,654.1-hotfix,4,2,6,1
+FSP-V4,7614,NickHotalling-FSP,"FSP-11406 Discovery Flight - Display Payrix error messages",2025-05-02T20:18:01Z,2025-05-06T19:59:30Z,FE-658-RC-3,79,29,108,4
+FSP-V4,7613,joshvahl-fsp,"FSP-11438, FSP-11441, FSP-11442 fixes issue with order of items in vm$",2025-05-02T19:32:28Z,2025-05-02T19:36:25Z,FE-655-RC-2,1,3,4,1
+FSP-V4,7612,joshvahl-fsp,"FSP-11437 fix issue with modal creating two items if save clicked twice",2025-05-02T17:01:57Z,2025-05-02T17:23:03Z,FE-655-RC-2,17,10,27,4
+FSP-V4,7607,NickHotalling-FSP,"FSP-11425 Discovery Flight surcharge fixes",2025-05-02T16:37:39Z,2025-05-06T19:58:29Z,FE-658-RC-3,94,88,182,5
+FSP-V4,7600,adam-blumberg,"Update settings_TrainingHub-tests.spec.js",2025-05-01T20:39:53Z,2025-05-01T20:43:14Z,FE-656-RC-3,35,64,99,1
+FSP-V4,7599,joshvahl-fsp,"FE-655 defect fixes",2025-05-01T20:24:09Z,2025-05-02T14:18:48Z,FE-655-RC-2,81,40,121,9
+FSP-V4,7597,timsquires,"FSP-11314 remove downed aircraft from list sent to solver",2025-05-01T14:47:32Z,2025-05-01T14:52:47Z,FE-657-RC,32,2,34,2
+FSP-V4,7596,joshvahl-fsp,"FSP-11408 fixes infinite spinner logic issue",2025-05-01T14:32:56Z,2025-05-01T14:35:10Z,FE-655-RC-2,3,0,3,1
+FSP-V4,7584,amatasek,"useFactory to fix race condition",2025-04-30T21:45:29Z,2025-04-30T21:46:51Z,FE-652.1-hotfix,1,1,2,1
+FSP-V4,7583,NickHotalling-FSP,"FSP-11400 Discovery Flight Preferences - merchant account message, disable auto save ",2025-04-30T20:53:44Z,2025-04-30T21:51:09Z,FE-652.1-hotfix,58,20,78,2
+FSP-V4,7582,amatasek,"Remove dead code and add console error",2025-04-30T20:06:38Z,2025-04-30T20:09:10Z,FE-652.1-hotfix,1,16,17,2
+FSP-V4,7581,tylermeininger-fsp,"FSP-8849 Improve availability check for group slots",2025-04-30T16:40:54Z,2025-05-01T14:51:56Z,FE-657-RC,5,1,6,3
+FSP-V4,7569,timsquires,"FSP-11391 add support for new syllabus provider, The Finer Points",2025-04-28T21:17:41Z,2025-04-30T15:48:11Z,FE-656-RC,8,0,8,6
+FSP-V4,7568,NickHotalling-FSP,"Discovery Flights - Ensure location is set when auto-saving",2025-04-28T20:21:09Z,2025-04-28T20:38:18Z,FE-651-652-RC-3,7,1,8,1
+FSP-V4,7567,timsquires,"Combine FE-652 and FE-651",2025-04-28T18:48:46Z,2025-04-28T18:57:24Z,FE-651-652-RC-3,6433,7,6440,105
+FSP-V4,7561,joshvahl-fsp,"Self service payment links",2025-04-28T15:23:43Z,2025-04-29T20:41:34Z,FE-655-RC-2,2702,1296,3998,43
+FSP-V4,7555,NickHotalling-FSP,"Discovery Flight - change state input to dropdown, data-cy",2025-04-25T21:33:37Z,2025-04-28T14:53:41Z,FE-652-RC-4,134,11,145,8
+FSP-V4,7554,NickHotalling-FSP,"Fix: Do not load QBO users if accountingSync not enabled",2025-04-25T20:52:27Z,2025-04-25T21:05:44Z,FE-652-RC-4,32,19,51,2
+FSP-V4,7553,amatasek,"FSP-11356 Discovery Flight List",2025-04-25T18:58:45Z,2025-04-25T20:35:24Z,FE-652-RC-4,598,8,606,12
+FSP-V4,7547,NickHotalling-FSP,"FSP-11355 Discovery flight Payrix form revisions",2025-04-24T21:30:49Z,2025-04-25T17:03:48Z,FE-652-RC-4,1545,588,2133,22
+FSP-V4,7546,timsquires,"FSP-11377 only show customization row for aviator pro",2025-04-24T21:06:12Z,2025-04-25T14:09:51Z,FE-650-RC-1,46,40,86,2
+FSP-V4,7538,amatasek,"Send proper env header",2025-04-24T20:19:53Z,2025-04-24T20:29:10Z,FE-652-RC-4,1,1,2,1
+FSP-V4,7537,timsquires,"FSP-11366 Fix my apps modal defect",2025-04-24T17:49:08Z,2025-04-24T18:37:35Z,FE-650-RC-1,17,28,45,2
+FSP-V4,7528,timsquires,"FSP-11059 use location offset instead of company's for civil twilight",2025-04-23T19:04:50Z,2025-04-24T14:28:15Z,FE-651-RC,47,30,77,2
+FSP-V4,7527,amatasek,"[FSP-11280] Discovery Flight Preferences",2025-04-23T18:59:41Z,2025-04-24T19:50:37Z,FE-652-RC-4,886,17,903,25
+FSP-V4,7520,timsquires,"FSP-11275 AP company customization link",2025-04-23T14:50:24Z,2025-04-23T16:34:16Z,FE-650-RC-1,125,18,143,10
+FSP-V4,7507,tylermeininger-fsp,"FSP-11353 Map date from UTC to company time zone",2025-04-22T20:52:14Z,2025-04-28T14:21:09Z,FE-654-RC,41,22,63,1
+FSP-V4,7505,tylermeininger-fsp,"FSP-9868 Res training bugfix",2025-04-22T17:59:28Z,2025-04-23T18:17:50Z,FE-651-RC,17,5,22,1
+FSP-V4,7504,timsquires,"FSP-11346 move aviator pro config to base context",2025-04-22T16:03:27Z,2025-04-22T17:00:14Z,FE-650-RC-1,7,5,12,5
+FSP-V4,7498,tylermeininger-fsp,"FSP-11343 Data-cy and unit test model changes",2025-04-21T16:48:33Z,2025-04-21T17:02:06Z,FE-648-RC-3,16,3,19,5
+FSP-V4,7497,tylermeininger-fsp,"FSP-11342 Data-cy update",2025-04-21T15:46:21Z,2025-04-21T15:47:37Z,FE-648-RC-3,1,0,1,1
+FSP-V4,7494,timsquires,"FSP-11273 add null check for course",2025-04-17T20:59:25Z,2025-04-17T21:00:48Z,FE-646-RC-1,6,2,8,1
+FSP-V4,7493,joshvahl-fsp,"FSP-11284 updates student financing terms and conditions document",2025-04-17T19:29:18Z,2025-04-21T14:40:15Z,FE-649-RC-4,7,5,12,4
+FSP-V4,7492,joshvahl-fsp,"FSP-11139 auto billing tab changes",2025-04-17T19:02:09Z,2025-04-22T16:16:36Z,FE-647-RC-2,11,12,23,4
+FSP-V4,7491,timsquires,"FSP-11254 aviator pro link fixes",2025-04-17T18:56:23Z,2025-04-21T14:34:12Z,FE-650-RC-1,383,290,673,24
+FSP-V4,7490,amatasek,"FSP-11296 - Discovery flights UI Migration",2025-04-17T17:31:39Z,2025-04-22T21:18:48Z,FE-652-RC-4,3877,3,3880,73
+FSP-V4,7489,tylermeininger-fsp,"FSP-11250 Smart scheduling group updates",2025-04-17T16:40:19Z,2025-04-25T16:07:05Z,FE-654-RC,213,70,283,12
+FSP-V4,7485,tylermeininger-fsp,"Fsp-10438 upgrade check in modal for mx reservations",2025-04-16T19:19:00Z,2025-04-18T17:07:42Z,FE-648-RC-3,2346,850,3196,47
+FSP-V4,7484,tylermeininger-fsp,"FSP-11268 Remove smart schedule feedback mechanism",2025-04-16T18:42:13Z,2025-04-21T14:37:04Z,FE-648-RC-3,0,291,291,12
+FSP-V4,7481,joshvahl-fsp,"FSP-11239 changes paymentDueAtUtc to autoBillingAtUtc",2025-04-14T14:23:17Z,2025-04-22T16:15:34Z,FE-647-RC-2,147,127,274,19
+FSP-V4,7476,tylermeininger-fsp,"FSP-10998 Fix aircraft times modal not loading after aircraft class change",2025-04-10T15:39:05Z,2025-04-10T15:46:24Z,FE-645-RC-1,30,16,46,2
+FSP-V4,7471,amatasek,"Bump run back 4 hours",2025-04-08T21:10:36Z,2025-04-08T21:35:03Z,master,1,1,2,1
+FSP-V4,7470,timsquires,"FSP-11093 Fix multi student training not loading courses for student 2",2025-04-08T20:36:18Z,2025-04-14T14:21:05Z,FE-646-RC-1,42,33,75,2
+FSP-V4,7457,joshvahl-fsp,"FSP-11220 fixes retry subscription logic, clears student loans after use",2025-04-04T20:51:27Z,2025-04-04T21:03:54Z,FE-644-RC-2,36,26,62,4
+FSP-V4,7455,tylermeininger-fsp,"FE-641-RC-1 Merge conflict fix to master",2025-04-04T14:49:36Z,2025-04-04T14:51:33Z,master,624,180,804,25
+FSP-V4,7448,timsquires,"FE-463 defect fixes",2025-04-03T13:46:09Z,2025-04-03T14:42:39Z,FE-643-RC-3,13,2,15,2
+FSP-V4,7443,timsquires,"FSP-11190 reverse ground school status check",2025-04-02T15:28:33Z,2025-04-02T15:38:28Z,FE-643-RC-3,4,4,8,1
+FSP-V4,7439,tylermeininger-fsp,"Add conditional back for continue with existing times button",2025-04-02T14:48:18Z,2025-04-02T14:54:23Z,FE-641-RC-1,1,1,2,1
+FSP-V4,7434,tylermeininger-fsp,"FSP-11157 Update squawk in list conditionally after create",2025-04-02T00:06:06Z,2025-04-02T14:02:05Z,FE-641-RC-1,13,9,22,1
+FSP-V4,7433,timsquires,"FSP-10808 support ITD and UTD sim classes",2025-04-01T21:12:32Z,2025-04-07T15:58:50Z,FE-645-RC-1,195,163,358,13
+FSP-V4,7432,joshvahl-fsp,"FSP-11103 adds sallie mae about text",2025-04-01T19:31:45Z,2025-04-01T19:46:46Z,FE-642.1-hotfix,42,20,62,3
+FSP-V4,7420,timsquires,"FSP-10143 add ContentProviderAccountStatus, show banners based on it",2025-03-31T17:50:15Z,2025-03-31T20:29:53Z,FE-643-RC,59,2,61,5
+FSP-V4,7415,joshvahl-fsp,"FSP-11166 adds data-cy to copy operator guid icon",2025-03-27T20:38:24Z,2025-03-27T20:51:51Z,FE-642-RC-2,3,1,4,2
+FSP-V4,7414,timsquires,"FSP-11153 up find a time res limit from 12 to 13 hours",2025-03-27T14:49:55Z,2025-03-27T14:52:36Z,FE-641-RC-1,1,1,2,1
+FSP-V4,7413,tylermeininger-fsp,"FSP-8849 Scheduling slot availability bugfix",2025-03-26T20:59:22Z,2025-03-27T14:51:35Z,FE-641-RC-1,21,8,29,6
+FSP-V4,7412,joshvahl-fsp,"FSP-11094 adds required query params guard",2025-03-26T20:46:16Z,2025-03-26T20:50:46Z,FE-642-RC-2,32,0,32,3
+FSP-V4,7411,joshvahl-fsp,"FSP-10865 sallie mae integration page",2025-03-26T14:36:33Z,2025-03-26T15:30:13Z,FE-642-RC-2,1086,606,1692,33
+FSP-V4,7410,joshvahl-fsp,"FSP-10864 adds sallie mae to integrations list page",2025-03-26T14:35:30Z,2025-03-26T15:17:45Z,FE-642-RC-2,7,0,7,2
+FSP-V4,7409,joshvahl-fsp,"FSP-11073 fixes transactions filter clear bug",2025-03-26T14:34:13Z,2025-03-26T15:15:51Z,FE-642-RC-2,1,2,3,1
+FSP-V4,7408,joshvahl-fsp,"FSP-11094 fixes sales list permission bug",2025-03-26T14:33:18Z,2025-03-26T15:14:40Z,FE-642-RC-2,14,3,17,4
+FSP-V4,7405,timsquires,"FSP-9193 adjust instructor time limits",2025-03-24T21:51:29Z,2025-03-26T14:46:03Z,FE-641-RC-1,42,2,44,3
+FSP-V4,7401,amatasek,"Added parameters for subfolder and individual spec files to Cypress runner",2025-03-24T18:01:08Z,2025-03-24T18:08:06Z,master,10,1,11,1
+FSP-V4,7400,tylermeininger-fsp,"FSP-11096 RTS Cleanup",2025-03-24T16:20:11Z,2025-03-26T14:56:41Z,FE-641-RC-1,35,6,41,1
+FSP-V4,7399,tylermeininger-fsp,"FSP-9860 Null check aircraftId before fetching booking alerts",2025-03-21T17:06:23Z,2025-03-26T14:47:51Z,FE-641-RC-1,2,2,4,1
+FSP-V4,7388,joshvahl-fsp,"FSP-11083 fixes issue with vm order on product and service modal",2025-03-19T14:30:24Z,2025-03-19T14:45:04Z,FE-638-RC-2,1,1,2,1
+FSP-V4,7387,tylermeininger-fsp,"FSP-11046 Mx status report changes",2025-03-17T15:12:28Z,2025-03-17T17:45:02Z,FE-640-RC-1,23,10,33,2
+FSP-V4,7381,joshvahl-fsp,"FSP-11056 fixes cancel subscription text so it flexes",2025-03-14T18:19:01Z,2025-03-14T19:12:05Z,FE-638-RC-2,22,8,30,3
+FSP-V4,7380,tylermeininger-fsp,"Add attachments to reminders and squawks",2025-03-14T16:53:47Z,2025-03-17T17:44:24Z,FE-640-RC-1,1783,71,1854,60
+FSP-V4,7379,joshvahl-fsp,"FSP-11043 fixes issue with reactivating loan subscription",2025-03-13T20:30:53Z,2025-03-13T21:22:27Z,FE-638-RC-2,116,35,151,3
+FSP-V4,7375,timsquires,"FSP-10991 add date to aircraft reminders that are overbooked",2025-03-13T17:30:42Z,2025-03-14T15:41:16Z,FE-639-RC-3,134,45,179,3
+FSP-V4,7374,amatasek,"Add xml report to cypress runner",2025-03-12T17:53:36Z,2025-03-12T18:02:35Z,master,3,1,4,1
+FSP-V4,7363,joshvahl-fsp,"FSP-10995 fixes problem with rejected sales logic",2025-03-10T21:54:54Z,2025-03-11T14:18:16Z,FE-638-RC-2,3,0,3,1
+FSP-V4,7362,amatasek,"Created Cypress github action runner",2025-03-10T20:16:01Z,2025-03-11T14:30:04Z,master,59,9,68,1
+FSP-V4,7361,joshvahl-fsp,"FSP-10987 fixes item types logic for products and services, code cleanup",2025-03-10T15:45:22Z,2025-03-11T14:24:33Z,FE-638-RC-2,266,247,513,4
+FSP-V4,7360,joshvahl-fsp,"FSP-10577 fixes styling issue with QBO form fields",2025-03-07T20:08:15Z,2025-03-11T14:26:30Z,FE-638-RC-2,2,25,27,4
+FSP-V4,7353,timsquires,"FSP-10565 send sportys data",2025-03-06T15:09:57Z,2025-03-06T15:56:05Z,FE-632-RC-3,25,8,33,6
+FSP-V4,7348,bartgriffith,"FSP-8822: fix sync status not updating on list ",2025-03-05T19:10:50Z,2025-03-05T19:16:43Z,FE-636-RC-4,42,17,59,7
+FSP-V4,7343,timsquires,"FSP-10962 fix dashboard alert for aviator pro",2025-03-05T16:34:08Z,2025-03-05T17:08:44Z,FE-632-RC-3,123,19,142,2
+FSP-V4,7342,timsquires,"FSP-10962 Fixes issues found on FE-632",2025-03-04T22:09:31Z,2025-03-05T13:32:43Z,FE-632-RC-3,100,82,182,5
+FSP-V4,7340,tylermeininger-fsp,"FSP-10735 Add ref number to reminder resolutions",2025-03-04T19:43:48Z,2025-03-17T17:49:39Z,FE-640-RC-1,36,14,50,6
+FSP-V4,7339,bartgriffith,"move remaining CloudSync flag to operator",2025-03-04T17:50:19Z,2025-03-04T17:57:49Z,FE-636-RC-4,4,2,6,2
+FSP-V4,7338,joshvahl-fsp,"FSP-10677 fixes bug where payFieldsScript was loaded twice causing errors in the credit card form",2025-03-04T15:51:09Z,2025-03-04T16:38:27Z,FE-637-RC-2,9,28,37,1
+FSP-V4,7337,joshvahl-fsp,"FSP-10956 fixes race condition with taxes on payment modal",2025-03-04T15:44:30Z,2025-03-04T16:39:24Z,FE-637-RC-2,14,12,26,1
+FSP-V4,7336,joshvahl-fsp,"FSP-10931 adds loan payment type on new subscription modal",2025-03-04T15:44:10Z,2025-03-11T14:28:06Z,FE-638-RC-2,59,1,60,3
+FSP-V4,7335,joshvahl-fsp,"FSP-10930 makes ""billed to"" field dynamic",2025-03-04T15:43:48Z,2025-03-11T14:25:36Z,FE-638-RC-2,25,5,30,5
+FSP-V4,7334,tylermeininger-fsp,"FSP-10775 Squawks history table",2025-03-03T21:28:49Z,2025-03-27T14:53:53Z,FE-641-RC-1,460,162,622,13
+FSP-V4,7333,amatasek,"Create test-integration.yml",2025-03-03T21:26:10Z,2025-03-04T19:35:39Z,master,33,0,33,1
+FSP-V4,7332,bartgriffith,"iOS-234: add back Download LogTen dashboard widget",2025-03-03T18:03:12Z,2025-03-03T20:49:15Z,FE-636-RC-4,19,5,24,4
+FSP-V4,7331,bartgriffith,"move cloud sync feature flag to operator",2025-03-03T16:41:03Z,2025-03-04T16:22:17Z,FE-636-RC-4,1,4,5,4
+FSP-V4,7330,bartgriffith,"Fe 632/merge master",2025-02-28T20:22:27Z,2025-02-28T20:23:11Z,FE-632-RC-3,930,156,1086,27
+FSP-V4,7322,bartgriffith,"Fix merge conflict between FE-632 and master",2025-02-28T15:32:13Z,2025-02-28T15:32:39Z,FE-632-RC-3,392,373,765,41
+FSP-V4,7317,joshvahl-fsp,"FSP-10940 fixes defect with new payment option not being selected",2025-02-27T22:07:33Z,2025-02-27T22:13:47Z,FE-634-RC-2,6,56,62,2
+FSP-V4,7316,bartgriffith,"FSP-8822: LogTen syncing from users reservation list",2025-02-27T16:09:03Z,2025-03-04T16:26:23Z,FE-636-RC-4,335,127,462,14
+FSP-V4,7315,timsquires,"FSP-10769 Time to next service report updates",2025-02-27T16:07:14Z,2025-02-27T17:12:59Z,FE-635-RC-1,141,39,180,3
+FSP-V4,7314,timsquires,"FSP-10765 Add maintenance meter multiplier modal",2025-02-27T16:06:25Z,2025-02-27T17:11:40Z,FE-635-RC-1,416,39,455,17
+FSP-V4,7309,joshvahl-fsp,"FSP-10685 fixes new subscription save payment method logic",2025-02-25T20:34:33Z,2025-02-25T23:18:30Z,FE-634-RC-2,4,8,12,3
+FSP-V4,7307,joshvahl-fsp,"FSP-9335 fixes base url being removed from mass email links",2025-02-25T17:41:15Z,2025-02-25T23:18:06Z,FE-634-RC-2,1,0,1,1
+FSP-V4,7306,joshvahl-fsp,"FSP-10776 fixes return logic for loan package payments",2025-02-25T14:34:00Z,2025-02-25T23:17:39Z,FE-634-RC-2,5,1,6,1
+FSP-V4,7305,bartgriffith,"FSP-10817: add back LogTen deep link button",2025-02-21T19:41:45Z,2025-02-21T20:25:57Z,FE-633-RC-4,122,83,205,19
+FSP-V4,7303,joshvahl-fsp,"FSP-10853 rate type logic fix",2025-02-21T14:57:38Z,2025-02-25T23:16:54Z,FE-634-RC-2,0,11,11,1
+FSP-V4,7302,joshvahl-fsp,"FSP-10709 fixes stratus widget display logic",2025-02-20T21:50:00Z,2025-02-25T23:16:20Z,FE-634-RC-2,17,14,31,2
+FSP-V4,7297,bartgriffith,"FSP-10817: Add to LogTen button sends to cloud",2025-02-19T18:08:26Z,2025-02-19T21:00:03Z,FE-633-RC-4,193,298,491,22
+FSP-V4,7295,tylermeininger-fsp,"FSP-10839 Reference number object null check",2025-02-18T17:36:08Z,2025-02-18T17:55:21Z,FE-631-RC-1,1,1,2,1
+FSP-V4,7293,joshvahl-fsp,"FSP-10825 adds data-cy to ""View More"" button",2025-02-18T15:01:10Z,2025-02-18T15:09:30Z,FE-630-RC-2,6,1,7,1
+FSP-V4,7288,tylermeininger-fsp,"Hide reference number changes behind feature flag",2025-02-17T17:09:37Z,2025-02-17T17:18:58Z,FE-631-RC-1,43,20,63,16
+FSP-V4,7287,joshvahl-fsp,"FSP-10811 fixes bug caused by trainingSessions filter",2025-02-17T14:17:53Z,2025-02-17T14:33:51Z,FE-625.1-hotfix,19,17,36,1
+FSP-V4,7286,timsquires,"FSP-10788 Add MzeroA option to company syllabus providers list",2025-02-17T13:36:42Z,2025-02-17T14:39:07Z,FE-631-RC-1,1,0,1,1
+FSP-V4,7285,tylermeininger-fsp,"Fix when displayed startDate is modified",2025-02-14T19:40:35Z,2025-02-14T19:44:26Z,FE-631-RC-1,1,1,2,1
+FSP-V4,7284,joshvahl-fsp,"fix for testing utils",2025-02-14T17:07:07Z,2025-02-14T17:42:12Z,FE-630-RC-2,6,0,6,1
+FSP-V4,7283,joshvahl-fsp,"FE-630 defect fixes and change request changes",2025-02-14T16:45:05Z,2025-02-14T16:46:42Z,FE-630-RC-2,26,10,36,2
+FSP-V4,7279,tylermeininger-fsp,"Bufixes: race conditions and incorrect start time on recurring series edit",2025-02-14T15:51:37Z,2025-02-14T16:41:36Z,FE-631-RC-1,21,4,25,4
+FSP-V4,7277,joshvahl-fsp,"FSP-10800 fixes issue when returning to view res modal",2025-02-13T20:00:08Z,2025-02-13T20:08:30Z,FE-625-628-629-RC-4,16,8,24,1
+FSP-V4,7276,joshvahl-fsp,"fix for jest tests",2025-02-13T17:36:52Z,2025-02-13T17:37:19Z,FE-625-628-629-RC-4,1,0,1,1
+FSP-V4,7275,joshvahl-fsp,"Fe 625 627 628 629/defects",2025-02-13T17:16:55Z,2025-02-13T17:21:49Z,FE-625-628-629-RC-4,13,4,17,6
+FSP-V4,7269,joshvahl-fsp,"Fe 627/integration test fixes",2025-02-12T19:00:48Z,2025-02-12T20:00:45Z,FE-627-RC-2,4,3,7,1
+FSP-V4,7262,joshvahl-fsp,"adds intercept and waits for delete request",2025-02-12T16:34:32Z,2025-02-12T16:35:28Z,FE-627-RC-2,6,1,7,1
+FSP-V4,7261,joshvahl-fsp,"FSP-10750 makes data-cy attributes unique for log in buttons",2025-02-11T22:22:05Z,2025-02-11T22:27:46Z,FE-630-RC-2,3,1,4,1
+FSP-V4,7260,joshvahl-fsp,"FSP-10741 fixes defect with studentId not being set properly",2025-02-11T17:54:09Z,2025-02-11T17:56:03Z,FE-625-RC-4,1,1,2,1
+FSP-V4,7259,tylermeininger-fsp,"FSP-10569 Add reference number field to reminders and squawks",2025-02-11T17:43:20Z,2025-02-14T18:43:36Z,FE-631-RC-1,180,129,309,22
+FSP-V4,7256,joshvahl-fsp,"FSP-10713 removes primaryPayment from model",2025-02-10T22:51:34Z,2025-02-11T16:15:26Z,FE-630-RC,0,1,1,1
+FSP-V4,7255,joshvahl-fsp,"FSP-10246 removes unnecessary code that was loading work orders twice",2025-02-10T22:05:09Z,2025-02-11T16:14:57Z,FE-630-RC,2,41,43,1
+FSP-V4,7254,joshvahl-fsp,"FSP-10725 makes data-cy attributes unique",2025-02-10T21:58:12Z,2025-02-10T22:03:14Z,FE-625-RC-4,110,122,232,5
+FSP-V4,7252,joshvahl-fsp,"FSP-10715 fixes issue with app context not updating with merch accts",2025-02-10T15:59:40Z,2025-02-10T17:07:51Z,FE-627-RC-2,1,3,4,1
+FSP-V4,7238,joshvahl-fsp,"FE-625 cleanup",2025-02-07T17:16:45Z,2025-02-07T17:17:06Z,FE-625-RC-4,375,127,502,12
+FSP-V4,7232,joshvahl-fsp,"Merge pull request #7221 from Flight-Schedule-Pro/master",2025-02-07T16:58:00Z,2025-02-07T16:58:31Z,FE-626-RC-1,505,84,589,9
+FSP-V4,7230,bartgriffith,"FSP-10436: Add support for FSP embedded logbook",2025-02-06T17:44:38Z,2025-02-19T20:30:10Z,FE-633-RC-4,145,74,219,17
+FSP-V4,7228,timsquires,"FSP-10412 include scheduling groups in student availability calendar",2025-02-05T23:07:07Z,2025-02-11T16:18:06Z,FE-629-RC,2,1,3,1
+FSP-V4,7227,joshvahl-fsp,"FSP-10653 removes refresh=true from merchant accounts bootstrap",2025-02-05T21:35:53Z,2025-02-06T14:42:07Z,FE-627-RC-2,1,1,2,1
+FSP-V4,7226,joshvahl-fsp,"FSP-10651 fix for payment methods not reloading, code cleanup",2025-02-05T21:26:46Z,2025-02-06T14:40:27Z,FE-627-RC-2,289,267,556,2
+FSP-V4,7225,joshvahl-fsp,"FSP-10563 starter suite",2025-02-05T21:25:15Z,2025-02-07T18:14:26Z,FE-628-RC-1,365,301,666,2
+FSP-V4,7217,joshvahl-fsp,"FSP-8816 multiple students log session modal",2025-02-03T14:43:27Z,2025-02-03T18:18:02Z,FE-625-RC,115,16,131,8
+FSP-V4,7216,joshvahl-fsp,"FSP-8815 training for multiple customers",2025-02-03T14:41:57Z,2025-02-03T18:16:17Z,FE-625-RC,266,117,383,6
+FSP-V4,7213,bartgriffith,"fix new feature flag",2025-01-31T18:37:21Z,2025-01-31T19:03:38Z,FE-624-RC-4,1,1,2,1
+FSP-V4,7210,joshvahl-fsp,"Sportys Progress Bar and Time Spent In Test Prep",2025-01-30T21:50:44Z,2025-01-31T14:43:47Z,FE-621-RC-3,231,170,401,12
+FSP-V4,7209,lucas-matheus-fsp,"Adding comments, improving the command to delete completed maintenance reservation",2025-01-28T21:18:37Z,2025-01-31T16:48:22Z,master,69,43,112,4
+FSP-V4,7200,tylermeininger-fsp,"Feature flag Return to Service changes",2025-01-24T16:35:59Z,2025-01-24T18:21:44Z,FE-623.1-hotfix,6,2,8,4
+FSP-V4,7197,bartgriffith,"FSP-9907: AviatorPro integration enablement",2025-01-23T17:25:39Z,2025-01-23T19:29:41Z,FE-624-RC-4,149,27,176,16
+FSP-V4,7188,lucas-matheus-fsp,"fixing the billing tests, adding timeout, and adding comments",2025-01-21T18:32:02Z,2025-01-21T22:28:53Z,master,111,59,170,8
+FSP-V4,7186,tylermeininger-fsp,"FSP-10553 Create reminder defect fix",2025-01-21T16:31:17Z,2025-01-21T17:21:43Z,FE-623-RC-2,4,3,7,1
+FSP-V4,7184,timsquires,"Open return to service workflow after checking in mx reservations",2025-01-20T20:42:13Z,2025-01-20T22:05:28Z,FE-623-RC-2,996,34,1030,20
+FSP-V4,7183,tylermeininger-fsp,"Return to service",2025-01-20T19:03:36Z,2025-01-20T21:52:42Z,FE-623-RC-2,3277,234,3511,60
+FSP-V4,7174,lucas-matheus-fsp,"Adding timeout to wait for the APIs",2025-01-16T17:12:49Z,2025-01-16T17:18:50Z,master,10,10,20,4
+FSP-V4,7172,bartgriffith,"Resolve merge conflicts with master",2025-01-16T16:02:40Z,2025-01-16T16:02:50Z,FE-620-RC-1,13280,13380,26660,92
+FSP-V4,7165,bartgriffith,"FSP-10482: fix issue with attempting to load billing hub data for non-bh ops",2025-01-15T17:54:25Z,2025-01-15T19:24:39Z,FE-618-RC-4,11,5,16,1
+FSP-V4,7164,lucas-matheus-fsp,"Setting a timeout to search a user",2025-01-14T22:58:44Z,2025-01-14T23:11:56Z,master,4,1,5,1
+FSP-V4,7163,timsquires,"FSP-10445 use consistent property for category class selections",2025-01-14T21:06:08Z,2025-01-14T22:10:58Z,FE-622-RC-2,6,3,9,2
+FSP-V4,7162,bartgriffith,"FSP-10289: Price change alerts",2025-01-14T18:13:51Z,2025-01-30T19:09:24Z,FE-621-RC-3,589,306,895,17
+FSP-V4,7161,bartgriffith,"fix-race-condition with merchant accounts",2025-01-14T15:01:39Z,2025-01-14T15:18:59Z,FE-618-RC-4,28,21,49,1
+FSP-V4,7156,timsquires,"Label category 403 fix",2025-01-10T15:30:01Z,2025-01-10T15:31:11Z,FE-602-616-RC-3,17,2,19,1
+FSP-V4,7134,tylermeininger-fsp,"Label usage defect fixes",2025-01-03T21:17:51Z,2025-01-08T20:44:26Z,FE-616-RC-2,123,67,190,21
+FSP-V4,7133,lucas-matheus-fsp,"Improving the billing tests",2025-01-03T20:23:37Z,2025-01-03T21:23:44Z,master,87,23,110,15
+FSP-V4,7124,adam-blumberg,"Remove forced waits from smoke tests",2025-01-02T19:52:49Z,2025-01-02T20:43:52Z,master,69,54,123,2
+FSP-V4,7060,timsquires,"Add debounce and caching to my operators list fetch",2024-12-12T21:12:42Z,2025-01-13T19:58:44Z,FE-618-RC-4,50,26,76,6
+FSP-V4,7056,bartgriffith,"Hack a thon: bootstrap improvements",2024-12-10T22:26:24Z,2025-01-13T20:15:31Z,FE-618-RC-4,1127,1064,2191,50
+FSP-V4,7014,bartgriffith,"Minor version upgrade for Angular and Nx",2024-12-04T14:56:53Z,2025-01-13T20:24:09Z,FE-618-RC-4,11292,11775,23067,3
+FSP-IOS-SUI,116,ThiagoSantiago-FSP,"[FSP-11523] Fix loading screen not dismissing ",2025-05-21T18:42:28Z,2025-05-21T23:47:18Z,develop,31,11,42,5
+FSP-IOS-SUI,115,ThiagoSantiago-FSP,"[FSP-11055] Bump Version",2025-05-12T20:30:12Z,2025-05-12T20:34:57Z,develop,2,2,4,1
+FSP-IOS-SUI,114,ThiagoSantiago-FSP,"[FSP-1105] Adds iOS support for squawk attachments",2025-04-25T17:11:28Z,2025-05-12T18:49:15Z,develop,1670,156,1826,20
+FSP-IOS-SUI,113,ivoDutraFlight,"IOS-215 - Bugfix iPad Reservation overlap",2025-03-08T00:08:49Z,2025-03-10T19:30:19Z,develop,47,45,92,6
+FSP-IOS-SUI,112,ivoDutraFlight,"Update CI to use `JWT Installation Access Token`",2025-03-07T21:08:42Z,2025-03-10T19:30:07Z,develop,6,1,7,1
+FSP-IOS-SUI,111,ivoDutraFlight,"IOS-233 - Update `AddToLogTenSheet` disclaimer",2025-03-07T18:06:04Z,2025-03-07T18:52:50Z,develop,1,1,2,1
+FSP-IOS-SUI,110,ivoDutraFlight,"Bugfix: Release Tagging",2025-03-07T18:01:01Z,2025-03-07T18:52:33Z,develop,13,12,25,1
+FSP-IOS-SUI,109,ivoDutraFlight,"IOS-152 - Fix failing `CheckInSheetViewModelTests`",2025-02-28T19:53:56Z,2025-02-28T23:37:57Z,develop,81,76,157,4
+FSP-IOS-SUI,108,ivoDutraFlight,"IOS-04 LogTen sync status on Reservation list",2025-02-26T22:36:28Z,2025-02-27T20:32:08Z,develop,126,87,213,11
+FSP-IOS-SUI,107,ivoDutraFlight,"IOS-216 - Re-Add Add to LogTen button, Supporting both deeplink and API methods ",2025-02-26T17:54:35Z,2025-02-27T19:57:42Z,develop,1284,725,2009,22
+FSP-IOS-SUI,106,ivoDutraFlight,"Fix Logbook build for QA",2025-02-19T22:16:45Z,2025-03-06T15:21:57Z,develop,258,140,398,19
+FSP-IOS-SUI,104,ivoDutraFlight,"Embedded Logbook - Final beta additions",2025-02-10T17:25:34Z,2025-02-18T21:14:04Z,develop,3760,1216,4976,76
+FSP-IOS-SUI,103,ivoDutraFlight,"Update version to 3.4",2025-02-04T17:50:37Z,2025-02-04T18:31:10Z,develop,2,2,4,1
+FSP-IOS-SUI,102,ivoDutraFlight,"Bugfix CI script - make sure script will always complete",2025-01-17T13:54:58Z,2025-02-04T17:35:31Z,develop,33,16,49,1
+FSP-IOS-SUI,101,ivoDutraFlight,"Post CI Script - Enhance error handling",2025-01-16T18:46:18Z,2025-01-16T21:06:39Z,develop,84,44,128,1
+FSP-IOS-SUI,100,ivoDutraFlight,"Automate tagging when cutting Release Builds",2025-01-16T16:03:43Z,2025-01-16T16:50:06Z,develop,76,9,85,2
+FSP-IOS-SUI,99,ivoDutraFlight,"IOS-203 - Revert PR #93 - Remove `Add to LogTen` Button ",2025-01-15T18:35:47Z,2025-01-15T20:04:27Z,develop,3,553,556,10
+FSP-IOS-SUI,98,ivoDutraFlight,"IOS-165 - Add Logbook Related Services",2025-01-13T17:45:33Z,2025-02-04T17:49:27Z,develop,1158,338,1496,48
+FSP-IOS-SUI,97,ivoDutraFlight,"Update version to 3.2.1",2025-01-08T20:59:15Z,2025-01-08T21:00:03Z,develop,2,2,4,1
+FSP-IOS-SUI,96,ivoDutraFlight,"IOS-198 - Missing Token Hotfix",2025-01-08T20:49:30Z,2025-01-08T20:57:07Z,develop,1,1,2,1
+FSP-IOS-SUI,95,ivoDutraFlight,"IOS-138 - Create Flight List for Logbook",2024-12-22T12:21:13Z,2025-01-07T20:34:48Z,develop,804,141,945,32
+TrainingHubApi,366,timsquires,"FSP-11491 use read/write context to get data that just got inserted",2025-05-19T15:22:54Z,2025-05-19T18:07:24Z,master,1,1,2,1
+TrainingHubApi,365,NickHotalling-FSP,"FSP-11532 Add try/catch around Sportys/AviatorPro apiClient calls",2025-05-16T18:24:10Z,2025-05-20T14:47:18Z,master,178,76,254,2
+TrainingHubApi,364,timsquires,"FSP-11512 include checkride enabled in course copy",2025-05-13T20:13:32Z,2025-05-15T14:36:40Z,master,3,0,3,2
+TrainingHubApi,363,NickHotalling-FSP,"FSP-11486 Audit history service",2025-05-13T02:56:56Z,2025-05-20T20:55:23Z,master,1530,58,1588,39
+TrainingHubApi,362,NickHotalling-FSP,"FSP-11415 Checkride exam scores CRUD endpoints",2025-05-09T21:31:02Z,2025-05-14T15:34:10Z,master,1647,55,1702,37
+TrainingHubApi,361,NickHotalling-FSP,"FSP-11435 Azure Function to sync ground school courses with no globalUserId",2025-05-07T22:15:54Z,2025-05-13T15:54:56Z,master,818,12,830,8
+TrainingHubApi,360,timsquires,"FSP-11422 lock headings and tasks on syllabus provider course copies",2025-05-07T16:26:28Z,2025-05-07T17:54:08Z,master,158,14,172,5
+TrainingHubApi,359,fspafahrenholtz,"Fix missing hyphen on package deployment command",2025-04-14T21:28:40Z,2025-04-15T14:39:45Z,master,2,2,4,2
+TrainingHubApi,358,fspafahrenholtz,"Fix package deployment on version update",2025-04-14T21:10:09Z,2025-04-14T21:23:26Z,master,4,2,6,2
+TrainingHubApi,357,fspafahrenholtz,"Remove obsolete references where possible",2025-04-14T16:26:36Z,2025-04-14T21:01:08Z,master,41,35,76,14
+TrainingHubApi,356,fspafahrenholtz,"Clean up GetRequiredService references in integration tests",2025-04-14T15:56:42Z,2025-04-14T16:27:32Z,master,85,109,194,26
+TrainingHubApi,355,fspafahrenholtz,"FSP-11247 Add and Manage Manual Aircraft Assignment lesson setting",2025-04-11T15:54:21Z,2025-04-14T15:43:26Z,master,556,261,817,40
+TrainingHubApi,354,NickHotalling-FSP,"FSP-11243 Add Content Provider White Labeling to Course-related Emails",2025-04-10T19:03:43Z,2025-04-14T15:32:28Z,master,333,85,418,14
+TrainingHubApi,353,fspafahrenholtz,"FSP-10759 Fix bug when creating enrollment for user enrolled in a course that has no course family",2025-04-03T21:00:32Z,2025-04-04T14:09:18Z,master,419,190,609,3
+TrainingHubApi,352,timsquires,"FSP-11169 support ITD/UTD sim classes",2025-04-03T16:37:15Z,2025-04-09T15:02:48Z,master,18,10,28,3
+TrainingHubApi,351,NickHotalling-FSP,"FSP-11176 Change Status on Get Content Provider Account to int (w enums)",2025-04-01T14:16:46Z,2025-04-01T15:31:31Z,master,31,31,62,8
+TrainingHubApi,350,NickHotalling-FSP,"FSP-11176 Change Status on Get Content Provider Account to int",2025-03-31T15:55:27Z,2025-03-31T16:26:57Z,master,18,19,37,6
+TrainingHubApi,349,NickHotalling-FSP,"FSP-9913 Student Progress for AviatorPro",2025-03-18T15:15:29Z,2025-03-19T18:15:05Z,master,29,26,55,5
+TrainingHubApi,348,NickHotalling-FSP,"FSP-10684 Adds Content Provider Student Event Webhook",2025-03-17T21:45:59Z,2025-03-21T14:10:35Z,master,236,64,300,14
+TrainingHubApi,347,NickHotalling-FSP,"FSP-10140 Adds Content Provider Company Event Webhook",2025-03-06T01:21:44Z,2025-03-10T14:48:19Z,master,886,153,1039,26
+TrainingHubApi,346,NickHotalling-FSP,"FSP-10105 Adds generic course event webhook for AviatorPro",2025-02-28T21:41:24Z,2025-03-03T16:03:12Z,master,777,69,846,22
+TrainingHubApi,345,NickHotalling-FSP,"FSP-10702 Fetch company url and logo from AviatorPro",2025-02-26T19:22:38Z,2025-02-28T14:43:48Z,master,197,2,199,9
+TrainingHubApi,344,NickHotalling-FSP,"FSP-10698 Send company info to AviatorPro",2025-02-26T19:18:40Z,2025-02-27T22:49:04Z,master,47,4,51,4
+TrainingHubApi,343,NickHotalling-FSP,"FSP-9910 Implement AviatorPro logic",2025-02-06T19:12:17Z,2025-02-27T16:31:01Z,master,697,25,722,15
+TrainingHubApi,342,chriscovert,"FSP-10655 After multiple prices were updated, display comma separated list",2025-02-06T16:15:08Z,2025-02-06T20:35:25Z,master,96,15,111,5
+TrainingHubApi,341,chriscovert,"FSP-10669 Don't show disabled courses in alerts",2025-02-05T17:48:26Z,2025-02-05T18:59:07Z,master,5,5,10,2
+TrainingHubApi,340,chriscovert,"FSP-10655 If multiple prices change, display comma separated list",2025-02-04T19:50:16Z,2025-02-04T20:10:24Z,master,85,10,95,7
+TrainingHubApi,339,NickHotalling-FSP,"FSP-10564 Send operator guid to Sportys for courses purchased at FSP",2025-02-03T21:30:16Z,2025-02-05T15:27:53Z,master,160,28,188,14
+TrainingHubApi,337,danwatkins-fsp,"Update Microsoft.NET.Test.Sdk to 17.12.0, NSubstitute to 5.3.0, NUnit to 4.3.2, Testcontainers to 4.1.0",2025-01-30T20:03:52Z,2025-01-30T20:22:20Z,master,7,16,23,3
+TrainingHubApi,336,NickHotalling-FSP,"FSP-9909 AviatorPro API client",2025-01-30T19:04:29Z,2025-01-30T21:06:52Z,master,1354,298,1652,38
+TrainingHubApi,335,NickHotalling-FSP,"FSP-10530 Account for null values returned from commonapi",2025-01-23T22:11:44Z,2025-01-23T22:23:05Z,master,55,3,58,3
+TrainingHubApi,334,NickHotalling-FSP,"FSP-10530 Send company info to Sporty's when operator integration is enabled",2025-01-21T22:32:17Z,2025-01-23T16:20:16Z,master,119,11,130,8
+TrainingHubApi,333,chriscovert,"FSP-10498 Remove Price Prep alerts when new price is applied",2025-01-16T17:57:32Z,2025-01-21T18:29:30Z,master,90,2,92,6
+TrainingHubApi,332,NickHotalling-FSP,"FSP-10421 Track history of operator enabling/disabling a content provider integration",2025-01-15T20:23:31Z,2025-01-16T19:42:57Z,master,210,10,220,13
+TrainingHubApi,331,fspafahrenholtz,"FSP-10398 Update FSP-Packages for gracefully handling task cancellation exceptions ",2025-01-15T15:27:49Z,2025-01-15T15:41:11Z,master,6,6,12,1
+TrainingHubApi,330,NickHotalling-FSP,"FSP-10135 New Sporty's Course Progress Properties",2025-01-10T18:18:54Z,2025-01-13T16:17:22Z,master,335,233,568,9
+TrainingHubApi,329,davidcooper-fsp,"FSP-10384 Add and/or filtering options for user labels",2025-01-07T16:11:28Z,2025-01-07T21:17:46Z,master,198,47,245,6
+TrainingHubApi,328,fspafahrenholtz,"Improve integration test performance",2024-12-24T17:51:32Z,2025-01-06T15:43:53Z,master,4,0,4,1
+SchedulingHubApi,273,fspafahrenholtz,"FSP-11510 Fix a regression where events with only aircraft are removed",2025-05-15T18:13:45Z,2025-05-16T12:42:29Z,master,49,2,51,2
+SchedulingHubApi,272,fspafahrenholtz,"FSP-11510 Include Scheduling Group aircraft in Aircraft validation check",2025-05-14T18:42:44Z,2025-05-15T14:39:26Z,master,160,5,165,3
+SchedulingHubApi,271,fspafahrenholtz,"FSP-11462 Trim flight events with no aircraft from being solved",2025-05-07T16:45:35Z,2025-05-09T18:40:57Z,master,72,5,77,3
+SchedulingHubApi,270,NickHotalling-FSP,"FSP-11188 ReservationAvailability can check for specific scheduling group slot",2025-04-29T21:41:38Z,2025-04-30T16:45:48Z,master,142,11,153,5
+SchedulingHubApi,269,danwatkins-fsp,"FSP-11240 Make PaymentDueAtUtc request property from reservation billing patch not mirror AutoBillingAtUtc",2025-04-23T18:23:56Z,2025-04-24T15:30:17Z,master,6,49,55,2
+SchedulingHubApi,268,danwatkins-fsp,"Use VersionPrefix for Directory.Build.props",2025-04-11T19:10:31Z,2025-04-11T19:32:30Z,master,1,1,2,1
+SchedulingHubApi,267,danwatkins-fsp,"FSP-11236 Add AutoBillingAtUtc request property to reservation billing patch",2025-04-10T17:58:20Z,2025-04-11T18:56:56Z,master,53,3,56,5
+SchedulingHubApi,266,danwatkins-fsp,"Run feature-1 deploy on push to branch and push prerelease packages",2025-04-10T15:36:34Z,2025-04-11T16:16:41Z,master,71,170,241,8
+SchedulingHubApi,265,danwatkins-fsp,"Allow local CoreDatabase image for tests, remove non-Docker test running, cleanup ReSharper errors",2025-04-07T17:19:47Z,2025-04-07T20:13:50Z,master,44,79,123,5
+SchedulingHubApi,264,timsquires,"FSP-9196 adjust pre and post instructor time limits on activity types",2025-03-24T21:08:17Z,2025-03-24T21:28:18Z,master,6,6,12,2
+SchedulingHubApi,263,timsquires,"FSP-10947 send slack message when auto schedule feedback is submitted",2025-03-14T19:25:34Z,2025-03-24T21:20:44Z,master,79,3,82,4
+SchedulingHubApi,262,danwatkins-fsp,"Fix nuget push failing on Ubuntu 24.04 runner",2025-01-21T20:43:59Z,2025-01-21T21:20:25Z,master,4,2,6,2
+SchedulingHubApi,260,fspafahrenholtz,"Run all tests on every PR commit",2025-01-10T21:50:37Z,2025-01-13T14:45:23Z,master,13,61,74,4
+SchedulingHubApi,259,fspafahrenholtz,"FSP-10397 Update FSP-Packages for gracefully handling task cancellation exceptions ",2025-01-08T22:37:24Z,2025-01-10T21:57:46Z,master,7,7,14,1
+SchedulingHubApi,258,fspafahrenholtz,"Improve integration test performance",2024-12-24T17:07:00Z,2025-01-06T14:39:28Z,master,6,1,7,1
+SchedulingHubApi,257,fspafahrenholtz,"FSP-10049 Allow multiple scheduling groups on an event",2024-12-24T15:52:19Z,2025-01-10T21:47:56Z,master,166,36,202,5
+MaintenanceHubApi,971,danwatkins-fsp,"FSP-11171 Simplify generated SQL when creating work order from reminder template with part request",2025-03-28T16:43:17Z,2025-03-28T21:44:23Z,master,232,160,392,10
+MaintenanceHubApi,970,danwatkins-fsp,"FSP-11111 Simplify part update generated SQL",2025-03-26T17:36:03Z,2025-03-28T21:17:19Z,master,45,52,97,5
+MaintenanceHubApi,969,danwatkins-fsp,"FSP-6903 Fix cannot create work order from two MX reminders when part has image",2025-03-26T17:34:00Z,2025-03-28T21:14:15Z,master,93,19,112,5
+MaintenanceHubApi,968,danwatkins-fsp,"FSP-11099 Simplify inventory location threshold alert recalc generated SQL on stock record changes",2025-03-26T14:51:09Z,2025-03-26T17:22:11Z,master,4,22,26,1
+MaintenanceHubApi,967,danwatkins-fsp,"FSP-11110 Fix part tests and run on PR build",2025-03-25T16:36:33Z,2025-03-25T17:52:50Z,master,478,1568,2046,18
+MaintenanceHubApi,966,danwatkins-fsp,"FSP-11100 Convert stock record unit tests to integration tests",2025-03-24T16:44:31Z,2025-03-24T19:20:08Z,master,814,1036,1850,7
+MaintenanceHubApi,965,danwatkins-fsp,"FSP-11090 Require stock record guids on PATCH /partRequests reset picks request",2025-03-20T21:15:04Z,2025-03-24T19:26:50Z,master,40,7,47,3
+MaintenanceHubApi,964,danwatkins-fsp,"FSP-11088 Fix cannot delete part request when part is deleted or inactive",2025-03-19T21:06:32Z,2025-03-19T22:25:42Z,master,143,114,257,5
+MaintenanceHubApi,963,danwatkins-fsp,"FSP-11084 Return 400 instead of 500 when default maintenance location does not exist for POST /workOrders",2025-03-19T14:44:40Z,2025-03-19T22:20:55Z,master,41,12,53,5
+MaintenanceHubApi,962,danwatkins-fsp,"FSP-11082 Return 400 instead of 500 when attachment does not exist for POST /stockRecords",2025-03-19T14:09:29Z,2025-03-19T22:12:11Z,master,13,0,13,2
+MaintenanceHubApi,961,danwatkins-fsp,"Add CancellationToken to all MaintenanceHubApiClient methods",2025-03-18T19:45:28Z,2025-03-18T20:14:11Z,master,410,197,607,3
+MaintenanceHubApi,960,danwatkins-fsp,"FSP-11067 Fix stock record tests and run on PR build",2025-03-17T17:08:42Z,2025-03-18T19:55:56Z,master,360,789,1149,13
+MaintenanceHubApi,959,fspafahrenholtz,"FSP-11018 Attach primary key guid to attachment record",2025-03-11T21:32:53Z,2025-03-12T14:25:46Z,master,8,3,11,2
+MaintenanceHubApi,958,danwatkins-fsp,"FSP-11003 Do not insert part request until work item is inserted when creating from template",2025-03-11T14:30:33Z,2025-03-11T18:15:50Z,master,7,6,13,1
+MaintenanceHubApi,957,danwatkins-fsp,"FSP-10876 Make workItemGuid request property non-null on POST and PUT /partRequests",2025-03-03T23:07:00Z,2025-03-06T14:13:37Z,master,89,406,495,9
+MaintenanceHubApi,956,fspafahrenholtz,"FSP-10773 Allow for attachments to Squawks",2025-03-02T05:33:30Z,2025-03-06T15:25:14Z,master,288,25,313,11
+MaintenanceHubApi,955,fspafahrenholtz,"FSP-10771 Support Maintenance Reminder and Reminder Resolution attachments",2025-02-26T20:14:44Z,2025-03-04T18:49:07Z,master,1113,231,1344,26
+MaintenanceHubApi,953,danwatkins-fsp,"Update Microsoft.ApplicationInsights.Profiler.AspNetCore to 2.7.2",2025-02-24T16:40:31Z,2025-02-24T16:46:07Z,master,1,1,2,1
+MaintenanceHubApi,952,danwatkins-fsp,"FSP-10877 Update FSP-Packages to 15.80.0",2025-02-21T19:15:01Z,2025-02-21T19:42:13Z,master,94,11,105,3
+MaintenanceHubApi,951,danwatkins-fsp,"FSP-10855 Require workItemGuid to be not null on POST and PUT /partRequests",2025-02-20T23:00:09Z,2025-02-21T16:12:16Z,master,96,33,129,3
+MaintenanceHubApi,950,danwatkins-fsp,"FSP-10856 Fix work item tests and run on PR build",2025-02-20T22:38:07Z,2025-02-20T22:53:47Z,master,297,650,947,5
+MaintenanceHubApi,949,danwatkins-fsp,"FSP-10823 Fix part request tests and run on PR build",2025-02-18T22:18:57Z,2025-02-19T14:01:09Z,master,771,1768,2539,9
+MaintenanceHubApi,948,danwatkins-fsp,"FSP-10838 Fix work order and file import tests and run on PR build",2025-02-18T19:21:30Z,2025-02-18T20:33:42Z,master,186,754,940,12
+MaintenanceHubApi,947,timsquires,"FSP-10782 part import updates",2025-02-12T22:25:40Z,2025-02-13T17:09:54Z,master,82,19,101,4
+MaintenanceHubApi,946,fspafahrenholtz,"Use NUnit for tests and Docker for integration tests",2025-01-22T21:41:47Z,2025-01-23T16:57:50Z,master,8559,8813,17372,273
+MaintenanceHubApi,945,fspafahrenholtz,"FSP-10400 Update FSP-Packages for gracefully handling task cancellation exceptions ",2025-01-15T17:41:03Z,2025-01-16T15:00:21Z,master,8,8,16,1
+BillingHubApi,1032,chriscovert,"FSP-11603 500 error on POST AccountingSync/SyncTaskComplete",2025-05-22T14:20:49Z,2025-05-22T14:46:18Z,master,59,1,60,2
+BillingHubApi,1031,danwatkins-fsp,"Reuse Azurite, MongoDB, and Redis test containers for isolated fixtures",2025-05-21T20:40:28Z,2025-05-21T21:20:13Z,master,69,55,124,1
+BillingHubApi,1028,danwatkins-fsp,"FSP-11497 Calculate sub total and grand total on initialize sale by reservation response",2025-05-20T14:50:19Z,2025-05-20T18:57:43Z,master,49,7,56,2
+BillingHubApi,1027,danwatkins-fsp,"FSP-11557 Add invoiceId to initialize refund line item response",2025-05-19T19:44:26Z,2025-05-20T19:01:08Z,master,19,1,20,3
+BillingHubApi,1026,danwatkins-fsp,"FSP-11559 Run GenerateStatementAndEmailFunction serially to avoid overloading PDF generator",2025-05-19T18:02:57Z,2025-05-19T19:20:07Z,master,1,0,1,1
+BillingHubApi,1025,danwatkins-fsp,"Update Microsoft.NET.Sdk.Functions to 4.6.0, Microsoft.Azure.WebJobs.Extensions.Storage to 5.3.4, FSP-Packages to 15.91.0",2025-05-16T19:34:09Z,2025-05-19T16:40:50Z,master,17,15,32,2
+BillingHubApi,1024,danwatkins-fsp,"FSP-11348 Add activity date to open invoices fetch",2025-05-16T16:33:14Z,2025-05-16T17:06:16Z,master,66,14,80,8
+BillingHubApi,1023,danwatkins-fsp,"FSP-11371 Remove security context usage from AutoPaymentDequeueFunction",2025-05-16T14:36:26Z,2025-05-16T14:52:25Z,master,28,8,36,1
+BillingHubApi,1021,danwatkins-fsp,"FSP-11348 Add dashboard display support for open invoices fetch",2025-05-15T18:38:31Z,2025-05-15T19:20:12Z,master,210,46,256,13
+BillingHubApi,1020,chriscovert,"FSP-11517 Show pay now button on emailed receipts if payment links enabled",2025-05-15T17:09:57Z,2025-05-16T15:44:18Z,master,207,21,228,4
+BillingHubApi,1019,davidcooper-fsp,"FSP-11550 Optimize statement generation by removing unused SQL queries",2025-05-15T16:53:14Z,2025-05-19T14:02:25Z,master,117,64,181,10
+BillingHubApi,1018,danwatkins-fsp,"FSP-11472 Show served by system for auto payment invoice receipt",2025-05-14T14:28:41Z,2025-05-14T18:32:48Z,master,28,1,29,5
+BillingHubApi,1017,danwatkins-fsp,"FSP-11477 Set auto payment status to none when billed invoice is paid",2025-05-13T15:29:42Z,2025-05-14T14:55:41Z,master,362,144,506,12
+BillingHubApi,1016,danwatkins-fsp,"Fix SalesTransactionReturn_Save indentation",2025-05-12T22:22:49Z,2025-05-13T13:23:17Z,master,102,98,200,1
+BillingHubApi,1015,danwatkins-fsp,"FSP-11470 Relax sales transaction fetch to allow user to fetch their own sale without add invoice permission",2025-05-12T20:09:36Z,2025-05-12T21:16:51Z,master,34,3,37,3
+BillingHubApi,1014,danwatkins-fsp,"FSP-11283 Add invoice line item type to create customer purchase endpoint",2025-05-12T20:08:09Z,2025-05-13T13:19:28Z,master,284,77,361,7
+BillingHubApi,1013,chriscovert,"FSP-11471 QBO Payment Method sync updates",2025-05-12T19:59:38Z,2025-05-15T19:28:54Z,master,224,27,251,3
+BillingHubApi,1011,danwatkins-fsp,"FSP-11371 Add AutoPaymentEnqueueFunction and AutoPaymentDequeueFunction",2025-05-08T21:23:33Z,2025-05-09T20:20:40Z,master,1104,7,1111,20
+BillingHubApi,1010,danwatkins-fsp,"FSP-11370 Add AutoPayWhenDue and PaymentDueAtUtc properties to sale update and payment",2025-05-08T14:52:52Z,2025-05-08T19:09:11Z,master,235,19,254,14
+BillingHubApi,1009,chriscovert,"FSP-11457 Add account balance to invoice receipts",2025-05-07T13:32:18Z,2025-05-16T14:35:09Z,master,211,21,232,8
+BillingHubApi,1008,danwatkins-fsp,"FSP-11387 Add payment links settings endpoints",2025-05-06T14:35:26Z,2025-05-06T16:46:25Z,master,346,7,353,15
+BillingHubApi,1007,chriscovert,"FSP-11455 BE: Add ShowAccountBalance to invoice preferences Fetch/PUT",2025-05-06T13:25:23Z,2025-05-15T19:21:33Z,master,17,8,25,3
+BillingHubApi,1006,chriscovert,"FSP-11142 Updates to invocie receipts",2025-05-05T21:24:45Z,2025-05-14T14:26:32Z,master,1079,719,1798,9
+BillingHubApi,1005,chriscovert,"FSP-11383 Update AccountingSyncFunctions to handle nightly and hourly frequencies",2025-05-02T13:47:17Z,2025-05-05T13:59:36Z,master,411,47,458,8
+BillingHubApi,1004,chriscovert,"FSP-11382 Add SyncFrequency to AccountingSyncSettings",2025-04-30T15:45:33Z,2025-05-01T16:06:00Z,master,63,13,76,7
+BillingHubApi,1003,danwatkins-fsp,"Fix failing membership subscription tests",2025-04-30T14:19:55Z,2025-04-30T14:37:31Z,master,6,6,12,1
+BillingHubApi,1002,danwatkins-fsp,"FSP-11337 Handle tblInvoicingLineItems.PublicLineItemGuid being not null",2025-04-30T13:59:48Z,2025-05-01T16:14:48Z,master,11,9,20,8
+BillingHubApi,1000,chriscovert,"FSP-11386 Add isCreditCard filter to Accounting Sync PaymentMethods fetch",2025-04-28T16:22:54Z,2025-05-01T16:03:17Z,master,146,40,186,14
+BillingHubApi,999,danwatkins-fsp,"FSP-11345 Apply discounts on create customer purchase endpoint",2025-04-25T16:43:03Z,2025-04-28T15:30:48Z,master,365,82,447,14
+BillingHubApi,998,danwatkins-fsp,"FSP-11297 Add billing settings line item fetch by public GUID",2025-04-25T15:18:39Z,2025-04-28T15:24:50Z,master,214,44,258,20
+BillingHubApi,997,chriscovert,"FSP-11338 Sync AccountingPaymentMethodId to QBO",2025-04-25T13:21:42Z,2025-05-02T13:53:37Z,master,549,18,567,4
+BillingHubApi,996,danwatkins-fsp,"FSP-11281 Add AllowPurchaseOnline to line item and require true for customer purchase",2025-04-24T22:00:27Z,2025-04-25T14:35:09Z,master,361,50,411,16
+BillingHubApi,995,danwatkins-fsp,"FSP-11368 Relax line item and tax single fetches to not require any permissions",2025-04-24T21:09:23Z,2025-04-24T21:46:28Z,master,35,16,51,4
+BillingHubApi,994,danwatkins-fsp,"Update Testcontainers to 4.4.0 and reduce max concurrent fixture initialization count",2025-04-24T14:59:24Z,2025-04-24T15:35:27Z,master,15,15,30,2
+BillingHubApi,993,danwatkins-fsp,"FSP-11262 Add create customer purchase endpoint",2025-04-22T14:36:52Z,2025-04-24T21:42:53Z,master,795,18,813,18
+BillingHubApi,992,davidcooper-fsp,"FSP-11065 Get Connection Returns No Content when there's no consumer",2025-04-18T21:46:02Z,2025-04-21T14:32:46Z,master,414,332,746,10
+BillingHubApi,991,chriscovert,"FSP-11022 Add NetSuite to AccountingSync Customer Create",2025-04-18T16:48:06Z,2025-04-18T18:51:40Z,master,182,16,198,11
+BillingHubApi,990,chriscovert,"FSP-11020 Add NetSuite support to AccountingSync Misc Settings PUT",2025-04-18T13:05:30Z,2025-04-18T14:45:09Z,master,159,4,163,2
+BillingHubApi,989,chriscovert,"FSP-11032 Add Netsuite AccountType filters to Account Search",2025-04-17T18:06:14Z,2025-04-17T19:21:59Z,master,435,144,579,10
+BillingHubApi,988,davidcooper-fsp,"FSP-2965 Migrate Customer Statement Emailer to Billing Hub Azure Functions",2025-04-17T16:18:38Z,2025-04-29T21:56:22Z,master,1017,511,1528,23
+BillingHubApi,987,chriscovert,"FSP-11032 Add Netsuite AccountType filters to Account Search",2025-04-17T16:04:51Z,2025-04-18T16:04:27Z,master,158,33,191,7
+BillingHubApi,985,chriscovert,"FSP-11007 Add NetSuite to Accounting Sync Customer Search",2025-04-15T21:22:33Z,2025-04-17T18:01:51Z,fsp-11124-payment-methods-put,435,144,579,10
+BillingHubApi,983,danwatkins-fsp,"Dissolve PaymentTokensUtility into TestUtility",2025-04-15T16:49:21Z,2025-04-15T18:53:19Z,master,292,317,609,20
+BillingHubApi,982,chriscovert,"FSP-11145  Fix payment method SuiteQL query",2025-04-15T14:04:22Z,2025-04-15T14:12:21Z,master,1,1,2,1
+BillingHubApi,981,chriscovert,"FSP-11145  Fix casing for netsuite connection state constants",2025-04-14T21:42:39Z,2025-04-14T22:08:37Z,master,5,5,10,1
+BillingHubApi,980,chriscovert,"FSP-11145 Add NetSuite PaymentMethod list fetch",2025-04-14T15:39:25Z,2025-04-14T21:01:08Z,master,851,25,876,25
+BillingHubApi,979,danwatkins-fsp,"FSP-11241 Remove PaymentDueAtUtc request and response properties",2025-04-11T20:13:15Z,2025-04-24T15:55:49Z,master,60,438,498,22
+BillingHubApi,978,davidcooper-fsp,"FSP-11065 Get Netsuite Connection",2025-04-11T19:21:08Z,2025-04-11T20:52:04Z,master,175,5,180,16
+BillingHubApi,977,danwatkins-fsp,"FSP-11237 Add AutoBillingAtUtc request and response properties that mirror PaymentDueAtUtc",2025-04-10T18:00:22Z,2025-04-14T18:52:47Z,master,436,70,506,24
+BillingHubApi,976,danwatkins-fsp,"FSP-11244 Fix membership subscriptions none payment method not using tokens on retry",2025-04-08T18:42:45Z,2025-04-09T14:07:39Z,master,85,46,131,4
+BillingHubApi,975,danwatkins-fsp,"Remove unreferenced methods",2025-04-04T16:59:34Z,2025-04-07T14:04:57Z,master,4,483,487,23
+BillingHubApi,974,danwatkins-fsp,"FSP-10408 Remove writes to inv.PaymentTokens.MerchantAccountId",2025-04-03T13:29:06Z,2025-04-03T15:40:47Z,master,0,47,47,6
+BillingHubApi,973,timsquires,"FSP-11160 update common api version to use new sim class enum value",2025-03-27T19:37:14Z,2025-04-09T15:07:08Z,master,27,9,36,2
+BillingHubApi,972,davidcooper-fsp,"FSP-11063 Update Netsuite Connection",2025-03-27T13:50:27Z,2025-04-11T19:14:18Z,master,281,26,307,14
+BillingHubApi,971,chriscovert,"FSP-11124 Add AccountingSyncPaymentMethod fields to PaymentMethod PUT",2025-03-26T18:49:14Z,2025-05-01T13:58:34Z,master,498,13,511,17
+BillingHubApi,970,davidcooper-fsp,"FSP-11062 Operator NetSuite Connection",2025-03-25T20:48:34Z,2025-03-27T13:48:18Z,master,1247,604,1851,27
+BillingHubApi,969,chriscovert,"FSP-11112 QBO payment methods list fetch",2025-03-25T13:36:24Z,2025-03-27T16:27:53Z,master,265,2,267,11
+BillingHubApi,968,danwatkins-fsp,"Update MaintenanceHubApiClient to 8.0.0 and fix BaseClient warnings",2025-03-18T19:46:22Z,2025-03-18T20:46:50Z,master,432,91,523,4
+BillingHubApi,967,davidcooper-fsp,"FSP-11004 Netsuite Taxes",2025-03-18T15:35:42Z,2025-04-17T16:33:11Z,master,383,53,436,10
+BillingHubApi,966,danwatkins-fsp,"FSP-10989 Add Sallie Mae to student financing account management",2025-03-13T20:08:52Z,2025-03-26T14:12:26Z,master,587,80,667,22
+BillingHubApi,965,chriscovert,"FSP-11035 Subscription loan payments should save AmountSpent",2025-03-13T13:38:24Z,2025-03-13T13:57:01Z,master,28,3,31,2
+BillingHubApi,964,chriscovert,"FSP-10978 Add NetSuite support to AccountingSync Product endpoints",2025-03-11T13:33:23Z,2025-03-18T15:31:27Z,master,216,47,263,27
+BillingHubApi,963,chriscovert,"FSP-10668 Query Accounts for NetSuite via ApiDeck",2025-03-10T19:02:38Z,2025-03-17T15:45:14Z,master,2384,99,2483,51
+BillingHubApi,962,danwatkins-fsp,"FSP-10936 Do not inactivate tax when unsold package is inactivated",2025-03-07T16:48:26Z,2025-03-07T19:38:22Z,master,33,18,51,3
+BillingHubApi,961,danwatkins-fsp,"FSP-10986 Fix initialize sale by reservation with preview requiring student financing permissions",2025-03-07T14:54:31Z,2025-03-07T15:09:52Z,master,73,14,87,5
+BillingHubApi,960,danwatkins-fsp,"FSP-10985 Do not create new payment token on student financing loan sync",2025-03-07T14:44:24Z,2025-03-07T15:07:44Z,master,22,2,24,2
+BillingHubApi,959,danwatkins-fsp,"FSP-10967 Update FSP-Packages to 15.84.0",2025-03-05T14:56:28Z,2025-03-05T16:13:10Z,master,39,13,52,3
+BillingHubApi,958,chriscovert,"FSP-10945 Move loan payment validation to StudentFinancingService",2025-03-05T14:43:15Z,2025-03-07T20:05:49Z,master,82,81,163,3
+BillingHubApi,957,chriscovert,"FSP-10872 Loan payments for membership subscriptions",2025-02-27T16:41:57Z,2025-03-07T20:47:01Z,master,790,50,840,17
+BillingHubApi,956,danwatkins-fsp,"Remove unused Chargify code",2025-02-24T22:19:02Z,2025-02-24T22:25:59Z,master,7,1082,1089,4
+BillingHubApi,955,chriscovert,"FSP-10700 Include all line items when updating total",2025-02-17T14:49:45Z,2025-02-17T16:57:20Z,master,17,14,31,2
+BillingHubApi,954,danwatkins-fsp,"FSP-10448 Use package rate for eligible products on initialize sale by reservation",2025-02-14T17:55:27Z,2025-02-20T21:08:36Z,master,103,4,107,2
+BillingHubApi,953,danwatkins-fsp,"Run feature-1 build on push to branch",2025-02-13T20:45:52Z,2025-02-19T14:07:28Z,master,12,109,121,3
+BillingHubApi,952,danwatkins-fsp,"FSP-10778 Require payment token null when creating membership subscription without CC or bank account",2025-02-13T19:00:18Z,2025-02-13T19:25:35Z,master,27,3,30,2
+BillingHubApi,951,danwatkins-fsp,"FSP-10779 Remove redundant payment token loads from membership subscription endpoints",2025-02-13T17:43:00Z,2025-02-13T18:58:36Z,master,24,55,79,2
+BillingHubApi,950,chriscovert,"FSP-10533 Async reservation cache invalidation on instructor rate PUT",2025-02-12T21:26:44Z,2025-02-13T22:16:59Z,master,71,2,73,4
+BillingHubApi,949,danwatkins-fsp,"FSP-10749 Consolidate and fix Azure Function queue trigger configs",2025-02-11T22:12:22Z,2025-02-12T15:16:15Z,master,108,184,292,15
+BillingHubApi,948,chriscovert,"FSP-10719 Don't apply price group product discounts to external training",2025-02-11T15:33:06Z,2025-02-11T20:45:07Z,master,57,8,65,4
+BillingHubApi,946,danwatkins-fsp,"FSP-10411 Add multi-merchant support to membership subscriptions",2025-02-10T16:44:02Z,2025-02-10T17:58:24Z,master,32,1,33,2
+BillingHubApi,945,danwatkins-fsp,"FSP-10460 Require track locations on preferences save when there are multiple enabled merchant accounts",2025-02-10T15:43:50Z,2025-02-10T16:42:06Z,master,56,7,63,2
+BillingHubApi,944,danwatkins-fsp,"FSP-10410 Add multi-merchant support to customer account purchase",2025-02-07T22:40:06Z,2025-02-10T14:47:28Z,master,275,36,311,5
+BillingHubApi,943,danwatkins-fsp,"FSP-10462 Add multi-merchant support for MX locations in SalesService.ProcessPayments",2025-02-07T16:39:03Z,2025-02-10T15:39:34Z,master,227,40,267,16
+BillingHubApi,942,chriscovert,"FSP-10700 Update prices on draft invoices when price changes are applied",2025-02-07T15:56:51Z,2025-02-11T22:19:13Z,master,207,25,232,9
+BillingHubApi,941,danwatkins-fsp,"FSP-10409 Add multi-merchant support to SalesService.ProcessPayments",2025-02-07T15:09:10Z,2025-02-10T14:24:23Z,master,314,37,351,15
+BillingHubApi,940,danwatkins-fsp,"FSP-10683 Remove ProPay support for membership subscriptions payment process",2025-02-06T11:46:02Z,2025-02-07T20:58:58Z,master,128,972,1100,14
+BillingHubApi,939,davidcooper-fsp,"FSP-8135 Hide FSP Staff from QBO Customer Mapping Page",2025-02-05T22:32:01Z,2025-02-06T21:27:24Z,master,66,9,75,5
+BillingHubApi,938,danwatkins-fsp,"Cleanup MembershipSubscriptionService",2025-02-05T17:29:41Z,2025-02-05T18:59:22Z,master,26,33,59,2
+BillingHubApi,937,danwatkins-fsp,"Fix membership subscription test failures in non-leap February and reduce fixture initialization hangs",2025-02-03T18:16:07Z,2025-02-03T20:28:06Z,master,4,4,8,3
+BillingHubApi,936,danwatkins-fsp,"FSP-10405 Allow additional Payrix merchant accounts to be created without being used",2025-01-31T21:43:46Z,2025-02-06T21:42:43Z,master,73,6,79,7
+BillingHubApi,935,danwatkins-fsp,"FSP-6380 Do not change previously saved aircraft rate back to standard when invoice is continued",2025-01-23T21:57:59Z,2025-02-19T19:23:09Z,master,53,97,150,2
+BillingHubApi,934,danwatkins-fsp,"Stop unnecessarily tracking locations for all tests in SalesTests",2025-01-22T20:58:52Z,2025-01-22T21:14:12Z,master,113,177,290,1
+BillingHubApi,933,danwatkins-fsp,"FSP-10336 Add SQL lock on student financing loan during Stratus webhook",2025-01-21T22:50:35Z,2025-01-22T14:21:49Z,master,56,8,64,5
+BillingHubApi,932,danwatkins-fsp,"Refactor tests to use PayrixApiClientFakeState to create merchant accounts",2025-01-21T21:32:05Z,2025-01-21T22:15:54Z,master,197,302,499,33
+BillingHubApi,931,danwatkins-fsp,"FSP-10407 Remove inv.PaymentTokens.MerchantAccountId reads",2025-01-21T19:45:07Z,2025-01-21T21:22:48Z,master,37,33,70,7
+BillingHubApi,930,chriscovert,"FSP-9715 Credit Memo email receipts should not show paid status",2025-01-17T17:39:01Z,2025-01-22T17:14:17Z,master,87,54,141,3
+BillingHubApi,928,chriscovert,"FSP-10463 Add ExternalName to MerchantAccounts fetch",2025-01-15T19:15:53Z,2025-01-22T17:43:17Z,master,21,1,22,7
+BillingHubApi,926,chriscovert,"FSP-10279 Don't process deactivated companies",2025-01-14T16:19:20Z,2025-01-22T17:15:01Z,master,36,1,37,3
+BillingHubApi,925,chriscovert,"instruction rate tests",2025-01-13T17:03:07Z,2025-01-13T17:20:31Z,master,49,1,50,2
+BillingHubApi,924,chriscovert,"FSP-10373 Handle customer 2 training on reservation invoices",2025-01-10T15:21:32Z,2025-01-13T18:02:44Z,master,230,6,236,12
+BillingHubApi,923,danwatkins-fsp,"Wait for SQL connection to succeed during test fixture initialization",2025-01-09T17:01:02Z,2025-01-10T14:45:08Z,master,39,2,41,2
+BillingHubApi,922,danwatkins-fsp,"Backfill tests for automatically changing aircraft rate for draft invoice fetch",2025-01-09T15:23:51Z,2025-01-10T15:10:08Z,master,233,7,240,5
+BillingHubApi,921,fspafahrenholtz,"FSP-10396 Update FSP-Packages for gracefully handling task cancellation exceptions ",2025-01-08T22:12:34Z,2025-01-09T15:28:16Z,master,7,7,14,1
+BillingHubApi,920,NickHotalling-FSP,"FSP-10406 Prevent ground school invoices from being deleted ",2025-01-08T21:10:12Z,2025-01-08T22:43:28Z,master,35,3,38,2
+BillingHubApi,919,danwatkins-fsp,"FSP-10402 Reduce extra accounting auto sync SQL connections to one",2025-01-08T15:34:26Z,2025-01-08T19:49:48Z,master,11,39,50,2
+BillingHubApi,918,chriscovert,"FSP-7720 Allow mx invoice staff to view WO invoices for other customers",2025-01-07T14:41:31Z,2025-01-09T15:50:54Z,master,22,4,26,3
+BillingHubApi,917,chriscovert,"Move Sales Receipt tests into separate file",2025-01-06T15:56:35Z,2025-01-09T14:25:53Z,master,329,275,604,2
+BillingHubApi,916,danwatkins-fsp,"Disable unreliable ProPay tests that connect to the sandbox API",2025-01-03T19:41:09Z,2025-01-06T14:30:12Z,master,28,0,28,6
+BillingHubApi,915,danwatkins-fsp,"Improve integration test performance by faking and mocking loggers",2025-01-02T23:31:01Z,2025-01-06T14:42:21Z,master,7,0,7,3
+BillingHubApi,914,danwatkins-fsp,"Remove unnecessary cleanup tasks from CleanupServiceTests",2025-01-02T22:41:40Z,2025-01-03T14:33:35Z,master,19,137,156,4
+BillingHubApi,913,danwatkins-fsp,"Limit number of base test fixtures initializing at the same time",2025-01-02T22:32:43Z,2025-01-06T14:36:25Z,master,33,4,37,1
+BillingHubApi,912,danwatkins-fsp,"Update Testcontainers.* to 4.1.0 and NUnit to 4.3.2",2025-01-02T22:06:51Z,2025-01-03T15:18:11Z,master,7,7,14,1
+CoreDatabase,392,chriscovert,"FSP-11121 Adding RoleTypes",2025-05-19T14:24:02Z,2025-05-20T15:00:27Z,develop,19,19,38,5
+CoreDatabase,391,danwatkins-fsp,"FSP-11371 Add SalesTransactions.AutoPaymentFailureMessage column",2025-05-06T19:02:43Z,2025-05-06T19:20:48Z,develop,1,0,1,1
+CoreDatabase,390,chriscovert,"FSP-11455 Add ShowAccountBalance to [dbo].[InvoiceLocationPreferences]",2025-05-06T13:14:58Z,2025-05-06T14:03:13Z,develop,1,0,1,1
+CoreDatabase,389,danwatkins-fsp,"FSP-11370 Change AutoPayWhenDue to AutoPaymentStatus",2025-05-02T21:18:05Z,2025-05-05T20:11:18Z,develop,1,1,2,1
+CoreDatabase,388,amatasek,"FSP-11440 Migrate dfl schema and migrations to Core Database",2025-05-02T18:33:06Z,2025-05-02T18:44:22Z,develop,83,0,83,7
+CoreDatabase,387,davidcooper-fsp,"FSP-11395 Add Statement Preferences for Payment Links",2025-05-01T15:54:11Z,2025-05-08T18:42:53Z,develop,55,1,56,2
+CoreDatabase,386,danwatkins-fsp,"FSP-11337 Default tblInvoicingLineItems.PublicLineItemGuid to  NEWID",2025-04-30T19:13:41Z,2025-04-30T19:18:43Z,develop,1,1,2,1
+CoreDatabase,384,danwatkins-fsp,"FSP-11387 Add inv.PaymentLinksSettings table",2025-04-29T16:14:28Z,2025-05-06T15:09:00Z,develop,34,0,34,3
+CoreDatabase,383,chriscovert,"FSP-11382 Add AccountingSyncFrequency to tblCompany",2025-04-28T20:12:22Z,2025-04-29T18:03:15Z,develop,2,1,3,1
+CoreDatabase,382,danwatkins-fsp,"FSP-11370 Add SalesTransactions.AutoPayWhenDue column",2025-04-28T17:01:00Z,2025-04-28T19:16:23Z,develop,1,0,1,1
+CoreDatabase,381,chriscovert,"FSP-11338 add CreditCardAccountingSyncMappings table",2025-04-24T13:39:06Z,2025-04-24T14:45:57Z,develop,9,1,10,2
+CoreDatabase,380,danwatkins-fsp,"FSP-11241 Add migration to set SalesTransactions.PaymentDueAtUtc to null",2025-04-23T18:35:17Z,2025-04-24T16:06:00Z,develop,24,0,24,1
+CoreDatabase,379,danwatkins-fsp,"FSP-11240 Add migration to set tblReservation.PaymentDueAtUtc to null",2025-04-23T18:05:21Z,2025-04-24T15:37:28Z,develop,24,0,24,1
+CoreDatabase,378,danwatkins-fsp,"FSP-11297 Add tblInvoicingLineItems.PublicLineItemGuid and backfill AllowPurchaseOnline",2025-04-18T21:16:05Z,2025-04-21T13:33:59Z,develop,43,1,44,2
+CoreDatabase,377,danwatkins-fsp,"FSP-11281 Add tblInvoicingLineItems.AllowPurchaseOnline column",2025-04-16T22:03:01Z,2025-04-17T14:24:46Z,develop,4,2,6,2
+CoreDatabase,376,danwatkins-fsp,"FSP-11211 Drop inv.PaymentTokens.MerchantAccountId column",2025-04-16T15:47:17Z,2025-04-16T17:56:45Z,develop,0,2,2,1
+CoreDatabase,375,danwatkins-fsp,"FSP-11237 Add SalesTransactions.AutoBillingAtUtc column",2025-04-09T17:35:14Z,2025-04-09T20:40:42Z,develop,24,0,24,2
+CoreDatabase,374,danwatkins-fsp,"FSP-11236 Add tblReservation.AutoBillingAtUtc column",2025-04-09T17:34:54Z,2025-04-09T20:37:45Z,develop,24,1,25,2
+CoreDatabase,373,danwatkins-fsp,"FSP-10408 Change inv.PaymentTokens.MerchantAccountId to nullable",2025-04-03T13:41:31Z,2025-04-03T14:35:03Z,develop,1,1,2,1
+CoreDatabase,372,davidcooper-fsp,"FSP-11173 Clear Accounting Integration Mappings",2025-03-28T21:20:47Z,2025-03-31T15:32:55Z,develop,23,0,23,1
+CoreDatabase,371,chriscovert,"FSP-11124 Add AccountingSyncPaymentMethod columns to inv.PaymentMethods",2025-03-26T14:33:59Z,2025-03-26T18:14:45Z,develop,2,0,2,1
+CoreDatabase,370,danwatkins-fsp,"FSP-11111 Add unique constraints to parts joiner tables",2025-03-25T21:41:37Z,2025-03-26T14:57:18Z,develop,23,3,26,4
+CoreDatabase,369,fspafahrenholtz,"FSP-11097 Change name of MX Reminder Resolution index",2025-03-21T19:09:00Z,2025-03-21T19:23:42Z,develop,1,1,2,1
+CoreDatabase,368,fspafahrenholtz,"FSP-11097 Index for getting mx reminder resolutions by mx reminder id",2025-03-21T15:02:44Z,2025-03-21T15:21:50Z,develop,5,0,5,1
+CoreDatabase,367,jlenox-fsp,"FSP-11095 ignore cdc schema in customer table validation",2025-03-20T20:44:35Z,2025-03-21T12:53:49Z,develop,1,1,2,1
+CoreDatabase,366,danwatkins-fsp,"FSP-11003 Force mx.PartRequests.WorkItemId not null on future writes",2025-03-11T14:24:03Z,2025-03-11T18:16:10Z,develop,5,5,10,1
+CoreDatabase,365,fspafahrenholtz,"FSP-10736 Add optional reference number to maintenance reminder resolution",2025-03-10T19:39:48Z,2025-03-10T21:30:12Z,develop,1,0,1,1
+CoreDatabase,364,danwatkins-fsp,"FSP-10989 Add StratusEnabled and SallieMaeEnabled columns to tblInvoicingPreferences",2025-03-10T18:38:43Z,2025-03-10T21:32:14Z,develop,8,0,8,2
+CoreDatabase,363,jlenox-fsp,"FSP-10025 Add Aviator Pro to HubSpot",2025-03-07T14:56:43Z,2025-03-07T15:10:05Z,develop,1,1,2,1
+CoreDatabase,362,fspafahrenholtz,"FSP-10773 Allow for an attachment to an entity with a Guid PK",2025-03-02T05:15:58Z,2025-03-03T22:14:07Z,develop,1,0,1,1
+CoreDatabase,361,danwatkins-fsp,"FSP-10905 Add ChargifySubscriptions.PremiumServicesComponentQuantity column",2025-02-28T22:35:04Z,2025-03-03T14:45:25Z,develop,1,0,1,1
+CoreDatabase,360,danwatkins-fsp,"FSP-10905 Add Chargify premium services columns",2025-02-28T15:17:35Z,2025-02-28T16:20:25Z,develop,23,12,35,3
+CoreDatabase,359,chriscovert,"FSP-10872 Add StudentFinancingLoanId to SalesTransactionPaymentType",2025-02-26T15:21:34Z,2025-02-26T18:55:17Z,develop,17,1,18,2
+CoreDatabase,358,danwatkins-fsp,"FSP-10903 Add ChargifySubscriptionsDeleted table",2025-02-25T21:43:12Z,2025-02-27T20:17:29Z,develop,76,0,76,2
+CoreDatabase,357,bartgriffith,"FSP-10897: add cloud sync feature flag to tblCompany",2025-02-25T13:54:46Z,2025-02-25T14:06:18Z,develop,2,1,3,1
+CoreDatabase,356,NickHotalling-FSP,"FSP-10764 Adds new table for storing maintenance calc settings",2025-02-24T17:59:49Z,2025-02-24T22:08:22Z,develop,8,0,8,2
+CoreDatabase,355,danwatkins-fsp,"FSP-10838 Add system rows for maintenance tables to post deployment script",2025-02-18T16:59:02Z,2025-02-18T19:02:24Z,develop,151,6,157,1
+CoreDatabase,353,danwatkins-fsp,"FSP-10462 Add inv.MerchantAccountToMaintenanceLocationJoiner",2025-02-03T17:19:14Z,2025-02-03T18:19:29Z,develop,15,2,17,3
+CoreDatabase,352,fspafahrenholtz,"FSP-10480 Optional reference number for Maintenance Reminders",2025-01-30T20:48:19Z,2025-02-03T19:52:15Z,develop,1,0,1,1
+CoreDatabase,351,fspafahrenholtz,"FSP-10537 Optional reference number for Squawks",2025-01-30T20:47:38Z,2025-02-05T16:17:28Z,develop,1,0,1,1
+CoreDatabase,350,chriscovert,"FSP-10533 slow instructorRateTypes PUT",2025-01-30T15:00:02Z,2025-02-12T21:27:08Z,develop,4,0,4,1
+CoreDatabase,349,danwatkins-fsp,"FSP-10409 Add inv.MerchantAccountToLocationJoiner table",2025-01-22T22:41:22Z,2025-01-23T15:11:02Z,develop,16,5,21,3
+CoreDatabase,348,NickHotalling-FSP,"FSP-10467 Add backfill script for OperatorAgreementHistory and include table in project",2025-01-20T15:43:33Z,2025-01-20T22:03:43Z,develop,24,0,24,2
+CoreDatabase,347,danwatkins-fsp,"Update MSBuild.Sdk.SqlProj to 3.0.0",2025-01-16T19:19:23Z,2025-01-16T20:32:08Z,develop,1,1,2,1
+CoreDatabase,346,chriscovert,"FSP-10477 Update Hubspot_Fetch_OperatorData_V5 to use first enabled merchant account",2025-01-16T15:01:23Z,2025-01-22T17:21:41Z,develop,7,2,9,1
+CoreDatabase,345,chriscovert,"FSP-10463 Add ExternalName to inv.MerchantAccounts table",2025-01-15T18:16:44Z,2025-01-15T18:29:56Z,develop,2,2,4,1
+CoreDatabase,344,danwatkins-fsp,"FSP-10407 Add inv.PaymentTokens.MerchantAccountType",2025-01-15T17:46:21Z,2025-01-15T18:27:19Z,develop,2,1,3,1
+CoreDatabase,343,NickHotalling-FSP,"FSP-10427 Adds OperatorAgreementHistory table",2025-01-14T16:21:22Z,2025-01-14T16:58:54Z,develop,10,0,10,1
+CoreDatabase,342,jlenox-fsp,"FSP-10437 New field to store custom header(s)",2025-01-10T20:35:46Z,2025-01-10T20:49:00Z,develop,1,0,1,1
+CoreDatabase,341,chriscovert,"FSP-10373 Update reservations invoices to support customer2 training",2025-01-09T17:20:04Z,2025-01-09T17:34:44Z,develop,1,1,2,1
+CoreDatabase,339,chriscovert,"FSP-10360 Inventory Search Syncs fail when labels or alternate parts have single quote",2025-01-02T21:00:32Z,2025-01-02T22:47:19Z,develop,16,4,20,2
+Curriculum.Api,554,timsquires,"FSP-11479 add checkride enabled to course settings",2025-05-13T18:46:48Z,2025-05-15T14:35:17Z,master,11,3,14,5
+Curriculum.Api,553,NickHotalling-FSP,"Mark AuditHistoryResourceType obsolete and add missing values",2025-05-12T20:58:25Z,2025-05-13T01:44:26Z,master,9,0,9,1
+Curriculum.Api,552,timsquires,"FSP-11168 support itd and utd sim classes",2025-04-03T16:35:23Z,2025-04-08T21:42:32Z,master,85,62,147,18
+Curriculum.Api,551,timsquires,"FSP-10630 add content provider tables to db context",2025-02-25T17:19:40Z,2025-02-25T21:10:25Z,master,64,0,64,7
+Curriculum.Api,550,seanpittman-fsp,"FSP-10711: Allow null value for program enrollment date",2025-02-10T19:50:31Z,2025-02-11T19:42:12Z,master,2,4,6,2
+Curriculum.Api,549,seanpittman-fsp,"FSP-10254: Don't timezone convert ExpectedStartDate or ActualStartDate",2025-02-05T22:40:53Z,2025-02-05T22:45:35Z,master,3,2,5,1
+Curriculum.Api,548,seanpittman-fsp,"FSP-10254: Enrollment Report Reflecting Incorrect Dates",2025-02-05T22:01:39Z,2025-02-05T22:10:32Z,master,3,3,6,1
+Curriculum.Api,547,danwatkins-fsp,"FSP-9889 Upgrade Azure Functions to net8.0 and remove net6.0 targets",2025-01-30T21:58:36Z,2025-01-31T16:53:44Z,master,101,107,208,20
+Curriculum.Api,546,fspafahrenholtz,"FSP-10424 Handle SqlExceptions caused by request cancellations ",2025-01-10T17:18:23Z,2025-01-13T20:10:42Z,master,13,5,18,1
+Curriculum.Api,545,timsquires,"FSP-10251 generate graduation cert even when operator logo is not set",2024-12-23T19:41:54Z,2025-01-02T19:54:38Z,master,130,130,260,1
+FlightScheduleProAPI,2346,NickHotalling-FSP,"Add missing AuditHistoryResourceType values",2025-05-12T20:59:09Z,2025-05-13T01:51:29Z,master,5,1,6,1
+FlightScheduleProAPI,2345,jlenox-fsp,"FSP-11380 Fix for address manager usage",2025-05-12T19:26:27Z,2025-05-12T19:49:00Z,master,1,1,2,1
+FlightScheduleProAPI,2344,jlenox-fsp,"FSP-11424 Expando removal pilot manager",2025-05-09T16:50:36Z,2025-05-09T21:02:43Z,expando-removal-schedule-view-manager-fsp-11421,796,94,890,13
+FlightScheduleProAPI,2343,jlenox-fsp,"FSP-11421 Expando removal schedule view manager",2025-05-06T16:15:04Z,2025-05-09T21:10:24Z,master,1198,155,1353,18
+FlightScheduleProAPI,2342,jlenox-fsp,"FSP-11420 Expando Removal PeopleManager",2025-05-02T21:02:42Z,2025-05-09T20:29:45Z,master,759,101,860,18
+FlightScheduleProAPI,2341,jlenox-fsp,"FSP-11396 Expando Removal FlightRecordManager",2025-04-30T20:49:48Z,2025-05-09T18:39:40Z,master,406,219,625,12
+FlightScheduleProAPI,2340,timsquires,"FSP-11392 add support for new syllabus provider, The Finer Points",2025-04-28T21:19:15Z,2025-04-29T18:45:45Z,master,8,0,8,3
+FlightScheduleProAPI,2339,fspafahrenholtz,"FSP-11385 Don't log default value for Squawk dates",2025-04-28T14:36:11Z,2025-04-28T14:47:10Z,master,9,2,11,1
+FlightScheduleProAPI,2338,jlenox-fsp,"FSP-11380 Expando Removal AddressManager ",2025-04-25T21:14:51Z,2025-05-09T16:58:50Z,master,924,47,971,17
+FlightScheduleProAPI,2337,fspafahrenholtz,"FSP-11253 Constrain what Squawk properties are added to audit history",2025-04-22T21:31:15Z,2025-04-24T15:38:06Z,master,43,17,60,1
+FlightScheduleProAPI,2335,danwatkins-fsp,"FSP-11238 Add AutoBillingAtUtc to reservation fetch response",2025-04-10T17:57:30Z,2025-04-15T13:39:27Z,master,9,3,12,5
+FlightScheduleProAPI,2334,davidcooper-fsp,"FSP-11255 Change QBO permission name",2025-04-09T20:10:17Z,2025-04-09T20:42:02Z,master,40,10,50,15
+FlightScheduleProAPI,2333,fspafahrenholtz,"FSP-11079 Save the requested reference number on the reminder resolution",2025-03-31T21:55:28Z,2025-04-02T15:37:13Z,master,3,55,58,1
+FlightScheduleProAPI,2332,timsquires,"FSP-11126 support new sim classes ITD and UTD",2025-03-27T19:40:22Z,2025-04-07T20:04:18Z,master,58,6,64,9
+FlightScheduleProAPI,2330,davidcooper-fsp,"FSP-11068 Add ApiDeck info to MyOperators Bootstrap",2025-03-25T15:01:16Z,2025-03-31T21:26:57Z,master,1009,884,1893,15
+FlightScheduleProAPI,2329,NickHotalling-FSP,"FSP-9966 Prevent reservation if no slots available in scheduling group",2025-03-24T21:45:36Z,2025-03-28T18:32:54Z,master,1148,10,1158,14
+FlightScheduleProAPI,2328,fspafahrenholtz,"FSP-11097 Don't check for resolutions when there are no reminders",2025-03-24T13:45:27Z,2025-03-24T14:01:23Z,master,6,1,7,1
+FlightScheduleProAPI,2327,fspafahrenholtz,"FSP-11097 Optimize retrieval of MX reminder resolutions",2025-03-21T15:18:16Z,2025-03-21T19:17:05Z,master,45,33,78,1
+FlightScheduleProAPI,2326,fspafahrenholtz,"FSP-11086 Use operator id directly for maintenance reminder fetch",2025-03-19T16:24:08Z,2025-03-19T16:32:31Z,master,1,1,2,1
+FlightScheduleProAPI,2325,fspafahrenholtz,"FSP-11052 Return attachment info on squawks tied to flight record",2025-03-14T18:17:58Z,2025-03-14T20:08:53Z,master,43,9,52,6
+FlightScheduleProAPI,2324,fspafahrenholtz,"FSP-10980 Get the latest resolution that has the same reminder",2025-03-14T15:39:50Z,2025-03-14T18:10:54Z,master,1,1,2,1
+FlightScheduleProAPI,2323,fspafahrenholtz,"FSP-10736 Return reference number on resolution history fetch",2025-03-13T20:46:48Z,2025-03-13T20:47:33Z,master,1,0,1,1
+FlightScheduleProAPI,2322,fspafahrenholtz,"FSP-10980 Handle case where there is no latest resolution for a maintenance reminder",2025-03-13T16:37:53Z,2025-03-13T18:24:47Z,master,4,2,6,1
+FlightScheduleProAPI,2321,NickHotalling-FSP,"FSP-10661 Include ReferenceNumber with Maintenance and Squawk reports",2025-03-13T15:19:47Z,2025-03-14T22:23:06Z,master,48,35,83,7
+FlightScheduleProAPI,2320,fspafahrenholtz,"FSP-10737 BE: Update reminder resolution update payload to accept referenceNumber",2025-03-12T21:04:45Z,2025-03-13T13:40:13Z,master,17,4,21,2
+FlightScheduleProAPI,2319,fspafahrenholtz,"FSP-10981 Add attachment info to squawk list fetch",2025-03-12T20:50:16Z,2025-03-13T13:39:18Z,master,18,1,19,3
+FlightScheduleProAPI,2318,davidcooper-fsp,"FSP-11025 Ensure to set KeyCafeId ",2025-03-12T17:43:02Z,2025-03-12T19:01:54Z,master,203,14,217,10
+FlightScheduleProAPI,2317,chriscovert,"FSP-10645 Add AccountingPackage to Bootstrap",2025-03-11T18:11:37Z,2025-03-11T20:04:45Z,master,2,1,3,1
+FlightScheduleProAPI,2316,fspafahrenholtz,"FSP-10980 Add attachment and resolution info to maintenance reminder single fetch",2025-03-11T16:46:07Z,2025-03-11T22:00:45Z,master,304,216,520,10
+FlightScheduleProAPI,2315,fspafahrenholtz,"FSP-10736 Add reference number to reminder resolution history fetch",2025-03-10T21:50:49Z,2025-03-11T18:29:23Z,master,78,28,106,7
+FlightScheduleProAPI,2314,NickHotalling-FSP,"FSP-10990 - Time to Next Service Report - Maintenance Overage updates",2025-03-07T23:38:24Z,2025-03-13T15:14:42Z,master,201,13,214,4
+FlightScheduleProAPI,2313,fspafahrenholtz,"FSP-10981 Add attachment info to Squawk list and details",2025-03-07T20:41:48Z,2025-03-11T16:39:11Z,master,93,19,112,12
+FlightScheduleProAPI,2312,fspafahrenholtz,"FSP-10980 Add attachment info to Maintenance Reminders and their Resolutions",2025-03-07T19:46:17Z,2025-03-11T15:46:43Z,master,767,435,1202,22
+FlightScheduleProAPI,2310,jlenox-fsp,"FSP-10025 Add Aviator Pro to HubSpot",2025-03-07T15:56:56Z,2025-03-07T17:22:03Z,master,8,1,9,1
+FlightScheduleProAPI,2309,davidcooper-fsp,"FSP-10821 Set KeyCafeIds for another path in the checkin process",2025-03-05T22:26:44Z,2025-03-05T22:30:47Z,master,6,7,13,5
+FlightScheduleProAPI,2308,danwatkins-fsp,"FSP-10960 Handle Chargify premium services component on/off toggle webhook",2025-03-05T15:02:36Z,2025-03-05T16:10:21Z,master,81,60,141,2
+FlightScheduleProAPI,2307,chriscovert,"FSP-10743 Aircraft V3 Post tests",2025-03-05T14:39:48Z,2025-03-11T18:09:33Z,master,972,54,1026,23
+FlightScheduleProAPI,2306,danwatkins-fsp,"FSP-10949 Improve Chargify component count updates",2025-03-05T13:01:31Z,2025-03-05T14:58:02Z,master,26,19,45,5
+FlightScheduleProAPI,2305,davidcooper-fsp,"FSP-10821 Add Check In Webhook to Keycafe Integration",2025-03-04T21:44:43Z,2025-03-05T16:13:59Z,master,384,183,567,17
+FlightScheduleProAPI,2304,neilbode-fsp,"FSP-10966 Get the logten sync status on behalf of the requesting user for reservation list",2025-03-04T20:46:40Z,2025-03-05T14:56:29Z,master,4,2,6,1
+FlightScheduleProAPI,2303,danwatkins-fsp,"FSP-10905 Handle Chargify premium services component",2025-03-04T20:05:47Z,2025-03-05T12:55:07Z,master,248,21,269,10
+FlightScheduleProAPI,2302,danwatkins-fsp,"Update System.Data.SqlClient to 4.9.0",2025-03-04T14:30:56Z,2025-03-04T19:09:15Z,master,2,2,4,2
+FlightScheduleProAPI,2301,bartgriffith,"FSP-10934: add flight record id to reservation list fetch",2025-03-03T19:36:52Z,2025-03-03T19:59:37Z,master,4,2,6,2
+FlightScheduleProAPI,2300,danwatkins-fsp,"FSP-10904 Handle Chargify subscription activation for initially inactive subscription",2025-02-27T15:27:25Z,2025-02-27T20:27:50Z,master,46,10,56,3
+FlightScheduleProAPI,2299,danwatkins-fsp,"FSP-10903 Handle Chargify subscription upgrades",2025-02-25T21:42:26Z,2025-02-27T20:23:23Z,master,390,19,409,9
+FlightScheduleProAPI,2298,NickHotalling-FSP,"FSP-10768 Adds Scheduled Hours Affecting Maintenance to Time to Next Service report",2025-02-25T21:31:45Z,2025-02-26T20:25:45Z,master,63,4,67,7
+FlightScheduleProAPI,2297,bartgriffith,"map logTenSyncing booleans onto a single boolean",2025-02-25T19:17:06Z,2025-02-25T19:42:13Z,master,7,11,18,3
+FlightScheduleProAPI,2296,bartgriffith,"Log ten cloud sync/fsp 10897",2025-02-25T16:03:17Z,2025-02-25T16:12:44Z,master,5,1,6,2
+FlightScheduleProAPI,2295,bartgriffith,"FSP-10897: add logTenCloudSyncEnabled to OperatorFetchByIdResponse",2025-02-25T14:05:50Z,2025-02-25T15:23:21Z,master,10,2,12,3
+FlightScheduleProAPI,2294,jlenox-fsp,"FSP-10886 Handle Term Subscriptions",2025-02-24T20:24:28Z,2025-02-26T21:19:11Z,master,23,4,27,1
+FlightScheduleProAPI,2293,danwatkins-fsp,"FSP-10882 Move WebhookProcessor and NightlyProcessor from FspApps",2025-02-21T22:48:04Z,2025-02-24T16:54:55Z,master,6516,11,6527,26
+FlightScheduleProAPI,2292,chriscovert,"FSP-10726 Integrations Test Project",2025-02-19T22:45:52Z,2025-02-26T22:24:31Z,master,1012,28,1040,24
+FlightScheduleProAPI,2291,bartgriffith,"FSP-10852: add instructor id to reservation training sessions",2025-02-19T17:10:47Z,2025-02-19T17:46:27Z,master,3,2,5,1
+FlightScheduleProAPI,2290,seanpittman-fsp,"FSP-10711: Allow null enrollment date program enrollment readstore update",2025-02-18T20:48:06Z,2025-02-18T21:36:59Z,master,1,1,2,1
+FlightScheduleProAPI,2289,seanpittman-fsp,"FSP-10711: Allow null enrollment date for ProgramEnrollmentView",2025-02-17T20:58:47Z,2025-02-17T21:46:04Z,master,1,1,2,1
+FlightScheduleProAPI,2288,neilbode-fsp,"Fsp 10755 add sync status to my reservations page",2025-02-17T19:20:54Z,2025-02-17T19:34:35Z,master,5,19,24,4
+FlightScheduleProAPI,2287,neilbode-fsp,"FSP-10807 Retrieve first and last name of student from tblPerson",2025-02-17T15:04:09Z,2025-02-17T20:08:20Z,master,4,1,5,1
+FlightScheduleProAPI,2286,timsquires,"FSP-10789 support MzeroA as a syllabus provider",2025-02-17T13:28:42Z,2025-02-17T14:40:07Z,master,8,0,8,3
+FlightScheduleProAPI,2285,neilbode-fsp,"Fsp 10755 add logten sync status to reservation list",2025-02-13T21:28:59Z,2025-02-17T18:01:17Z,master,417,80,497,19
+FlightScheduleProAPI,2284,amatasek,"FSP-10733 Remove default empty list for LabelIds",2025-02-11T18:06:53Z,2025-02-11T19:01:38Z,master,1,1,2,1
+FlightScheduleProAPI,2283,fspafahrenholtz,"FSP-10552 BE: Update reminder and squawk list fetches to include reference number",2025-02-10T21:15:01Z,2025-02-12T23:09:22Z,master,646,527,1173,23
+FlightScheduleProAPI,2282,fspafahrenholtz,"FSP-10549 BE: Store optional reference number on reminder PUT",2025-02-05T23:05:06Z,2025-02-12T22:50:10Z,master,163,154,317,3
+FlightScheduleProAPI,2281,fspafahrenholtz,"FSP-10538 BE: Return reference number on squawk fetch",2025-02-05T23:03:33Z,2025-02-12T22:53:59Z,master,96,116,212,9
+FlightScheduleProAPI,2280,chriscovert,"FSP-10671 Fix null ref in subscription details fetch",2025-02-05T18:51:11Z,2025-02-05T20:04:43Z,master,22,10,32,1
+FlightScheduleProAPI,2279,fspafahrenholtz,"FSP-10480 BE: Store optional reference number on reminder resolve",2025-02-05T17:14:27Z,2025-02-12T22:38:43Z,master,551,288,839,21
+FlightScheduleProAPI,2278,fspafahrenholtz,"FSP-10537 BE: Store optional reference number on squawk PUT",2025-02-05T17:13:51Z,2025-02-12T22:46:16Z,master,93,200,293,4
+FlightScheduleProAPI,2277,danwatkins-fsp,"FSP-9808 Add missing CC (Device) receipt totals to sales closing summary report",2025-02-04T23:38:33Z,2025-02-05T15:21:42Z,master,5,0,5,1
+FlightScheduleProAPI,2276,fspafahrenholtz,"FSP-10481 BE: Return last reference number on mx reminder fetch",2025-01-30T22:11:18Z,2025-02-12T22:34:54Z,master,371,153,524,12
+FlightScheduleProAPI,2275,davidcooper-fsp,"Update to Exception Handling to remove masking SQL timeouts",2025-01-30T18:05:03Z,2025-01-30T18:17:08Z,master,63,62,125,1
+FlightScheduleProAPI,2273,davidcooper-fsp,"FSP-10576 If there are no training sessions then ensure the sql is still valid",2025-01-22T21:41:37Z,2025-01-23T16:26:01Z,master,10,6,16,1
+FlightScheduleProAPI,2272,chriscovert,"FSP-6198 Add starter bundles to subscription details fetch",2025-01-22T15:19:50Z,2025-01-29T14:33:51Z,master,59,7,66,2
+FlightScheduleProAPI,2271,chriscovert,"FSP-9256 Fetch equipment list permissions",2025-01-17T15:09:52Z,2025-01-27T14:25:30Z,master,9,1,10,1
+FlightScheduleProAPI,2270,seanpittman-fsp,"FSP-10094: Add student name to training session mobile fetch",2025-01-16T15:10:34Z,2025-01-16T18:13:32Z,master,23,2,25,1
+FlightScheduleProAPI,2269,davidcooper-fsp,"FSP-10466 Remove Partition By, which causes incorrect pagination",2025-01-14T17:45:00Z,2025-01-14T17:52:43Z,master,2,2,4,1
+FlightScheduleProAPI,2268,seanpittman-fsp,"FSP-10094: Log session for customer 2",2025-01-14T15:12:03Z,2025-01-14T16:07:36Z,master,122,60,182,5
+FlightScheduleProAPI,2267,timsquires,"Fix join on people labels query for readstore",2025-01-13T21:15:21Z,2025-01-13T21:24:02Z,master,1,1,2,1
+FlightScheduleProAPI,2266,fspafahrenholtz,"FSP-10422 Handle SqlExceptions caused by request cancellations",2025-01-10T17:05:43Z,2025-01-10T20:54:49Z,master,21,12,33,1
+FlightScheduleProAPI,2265,fspafahrenholtz,"FSP-10430 Return default TimeZoneIndex when no company setting found",2025-01-09T21:05:53Z,2025-01-09T21:12:44Z,master,5,1,6,1
+FlightScheduleProAPI,2264,timsquires,"FSP-10174 add labels to people readstore",2025-01-09T15:26:05Z,2025-01-13T17:07:58Z,master,256,4,260,19
+FlightScheduleProAPI,2262,timsquires,"FSP-10333 Add null check on flightRecord before attempting update",2025-01-08T15:57:40Z,2025-01-08T18:55:05Z,master,3,2,5,1
+FlightScheduleProAPI,2261,davidcooper-fsp,"FSP-10355 Include and/or filtering for labels on People List",2025-01-07T16:04:02Z,2025-01-08T17:12:09Z,master,134,114,248,7
+FlightScheduleProAPI,2260,seanpittman-fsp,"Revert ""FSP-10094: Log training session for customer 2 on reservation (#2251)""",2025-01-06T22:02:37Z,2025-01-06T23:46:47Z,master,59,119,178,4
+FlightScheduleProAPI,2259,chriscovert,"FSP-10366 Packages report rates format",2025-01-03T20:33:00Z,2025-01-03T22:19:44Z,master,5,1,6,1
+FlightScheduleProAPI,2258,seanpittman-fsp,"FSP-10094: Fix studentId null reference",2025-01-03T18:24:22Z,2025-01-03T19:21:26Z,master,2,2,4,1
+CommonApi,542,NickHotalling-FSP,"Mark AuditHistoryResourceType obsolete and add missing values",2025-05-12T20:59:00Z,2025-05-13T01:45:15Z,master,9,2,11,1
+CommonApi,541,danwatkins-fsp,"FSP-11334 Add roles and user ID to person fetch response",2025-04-22T14:32:04Z,2025-04-25T19:29:09Z,master,60,6,66,5
+CommonApi,540,danwatkins-fsp,"FSP-11284 Add student financing terms and conditions operator agreement",2025-04-17T15:51:02Z,2025-04-18T16:23:39Z,master,7,2,9,4
+CommonApi,539,fspafahrenholtz,"Fix package deployment action",2025-04-02T18:38:56Z,2025-04-02T20:06:41Z,master,4,4,8,2
+CommonApi,538,fspafahrenholtz,"Add feature branch deployment of api client package",2025-04-01T16:30:27Z,2025-04-02T18:32:12Z,master,54,1,55,3
+CommonApi,537,timsquires,"FSP-11151 Support UTD sim class",2025-03-27T19:26:15Z,2025-04-01T15:16:55Z,master,26,10,36,7
+CommonApi,536,fspafahrenholtz,"FSP-10774 Add endpoint for returning Audit History Events for a resource",2025-03-25T21:53:17Z,2025-03-26T16:47:28Z,master,959,15,974,22
+CommonApi,535,amatasek,"FSP-10837 - Function cleanup",2025-03-25T19:36:12Z,2025-03-25T20:14:37Z,master,10,9,19,1
+CommonApi,534,danwatkins-fsp,"FSP-11002 Add Sallie Mae terms and conditions operator agreement",2025-03-20T20:25:46Z,2025-03-24T13:41:08Z,master,26,12,38,4
+CommonApi,533,amatasek,"[FSP-10837] Migrated DocumentUploadBackup function to CommonApi",2025-03-20T18:40:15Z,2025-03-21T14:03:40Z,master,769,0,769,9
+CommonApi,532,NickHotalling-FSP,"FSP-10964 Get Operator by GUID fix",2025-03-06T18:05:49Z,2025-03-06T20:14:39Z,master,6,18,24,4
